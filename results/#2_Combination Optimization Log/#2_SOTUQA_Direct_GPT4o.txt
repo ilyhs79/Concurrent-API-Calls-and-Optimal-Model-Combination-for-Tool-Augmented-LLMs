@@ -1,0 +1,856 @@
+
+******************* Start Evaluation *******************
+
+  0%|          | 0/50 [00:00<?, ?it/s]사용모델 :  gpt-4o 
+
+/usr/local/lib/python3.10/dist-packages/langchain_core/_api/deprecation.py:141: LangChainDeprecationWarning: The class `OpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.3.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import OpenAI`.
+  warn_deprecated(
+
+ 질문 Based on State of the Union Address 2023: What are the difference in the roles of McConnell and Chuck Schumer ? 
+ 정답 Mitch McConnell is the longest serving Senate Leader in history. He currently serves as the Senate Minority Leader, representing the interests of the minority party in the Senate. Chuck Schumer, on the other hand, serves as the Senate Majority Leader, representing the majority party in the Senate and setting the legislative agenda. 
+ 답변 McConnell is the Senate Minority Leader. Schumer is the Senate Majority Leader. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What are the difference in the roles of McConnell and Chuck Schumer ? 
+ 정답 Mitch McConnell is the longest serving Senate Leader in history. He currently serves as the Senate Minority Leader, representing the interests of the minority party in the Senate. Chuck Schumer, on the other hand, serves as the Senate Majority Leader, representing the majority party in the Senate and setting the legislative agenda. 
+ 답변 McConnell is the Senate Minority Leader. Schumer is the Senate Majority Leader. 
+ 판정 CORRECT
+  2%|▏         | 1/50 [00:02<02:02,  2.51s/it]
+ 질문 Based on State of the Union Address 2023: What are the difference in the roles of McConnell and Chuck Schumer ? 
+ 정답 Mitch McConnell is the longest serving Senate Leader in history. He currently serves as the Senate Minority Leader, representing the interests of the minority party in the Senate. Chuck Schumer, on the other hand, serves as the Senate Majority Leader, representing the majority party in the Senate and setting the legislative agenda. 
+ 답변 McConnell is the Senate Minority Leader. Schumer is the Senate Majority Leader. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: Who is the current serving Senate Leader and what is he known for? 
+ 정답 The current serving Senate Leader is Chuck Schumer. He is known for another term as Senate Majority Leader, this time with an even bigger majority. 
+ 답변 The current serving Senate Leader is Chuck Schumer, known for his legislative skills and leadership in the Democratic Party. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: Who is the current serving Senate Leader and what is he known for? 
+ 정답 The current serving Senate Leader is Chuck Schumer. He is known for another term as Senate Majority Leader, this time with an even bigger majority. 
+ 답변 The current serving Senate Leader is Chuck Schumer, known for his legislative skills and leadership in the Democratic Party. 
+ 판정 CORRECT
+  4%|▍         | 2/50 [00:05<02:10,  2.73s/it]
+ 질문 Based on State of the Union Address 2023: Who is the current serving Senate Leader and what is he known for? 
+ 정답 The current serving Senate Leader is Chuck Schumer. He is known for another term as Senate Majority Leader, this time with an even bigger majority. 
+ 답변 The current serving Senate Leader is Chuck Schumer, known for his legislative skills and leadership in the Democratic Party. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is Biden's one word definition of America? 
+ 정답 Possibilities 
+ 답변 Possibilities. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What is Biden's one word definition of America? 
+ 정답 Possibilities 
+ 답변 Possibilities. 
+ 판정 CORRECT
+  6%|▌         | 3/50 [00:07<01:51,  2.36s/it]
+ 질문 Based on State of the Union Address 2023: What is Biden's one word definition of America? 
+ 정답 Possibilities 
+ 답변 Possibilities. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: Why Biden defends Medicare and Social Security ? 
+ 정답 Biden defends Medicare and Social Security because they are lifelines for millions of seniors, and Americans have been paying into them with every paycheck since they started working. He believes these benefits belong to the people and should not be taken away. 
+ 답변 Biden defends Medicare and Social Security to protect benefits for seniors and prevent cuts proposed by some Republicans. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: Why Biden defends Medicare and Social Security ? 
+ 정답 Biden defends Medicare and Social Security because they are lifelines for millions of seniors, and Americans have been paying into them with every paycheck since they started working. He believes these benefits belong to the people and should not be taken away. 
+ 답변 Biden defends Medicare and Social Security to protect benefits for seniors and prevent cuts proposed by some Republicans. 
+ 판정 CORRECT
+  8%|▊         | 4/50 [00:09<01:48,  2.37s/it]
+ 질문 Based on State of the Union Address 2023: Why Biden defends Medicare and Social Security ? 
+ 정답 Biden defends Medicare and Social Security because they are lifelines for millions of seniors, and Americans have been paying into them with every paycheck since they started working. He believes these benefits belong to the people and should not be taken away. 
+ 답변 Biden defends Medicare and Social Security to protect benefits for seniors and prevent cuts proposed by some Republicans. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: Why did car prices ramp up so high during pandemic? 
+ 정답 Car prices ramped up so high during the pandemic because there was a shortage of semiconductors, which are essential components in the production of automobiles. American automakers couldn't make enough cars due to the lack of chips. 
+ 답변 Supply chain disruptions and increased demand. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: Why did car prices ramp up so high during pandemic? 
+ 정답 Car prices ramped up so high during the pandemic because there was a shortage of semiconductors, which are essential components in the production of automobiles. American automakers couldn't make enough cars due to the lack of chips. 
+ 답변 Supply chain disruptions and increased demand. 
+ 판정 CORRECT
+ 10%|█         | 5/50 [00:11<01:35,  2.13s/it]
+ 질문 Based on State of the Union Address 2023: Why did car prices ramp up so high during pandemic? 
+ 정답 Car prices ramped up so high during the pandemic because there was a shortage of semiconductors, which are essential components in the production of automobiles. American automakers couldn't make enough cars due to the lack of chips. 
+ 답변 Supply chain disruptions and increased demand. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: When was the Buy American law issued ? Was Biden born when this law issued? 
+ 정답 The Buy American law was issued in 1933. Joe Biden was not born when this law was issued, as he was born on November 20, 1942. 
+ 답변 The Buy American law was issued in 1933. Yes, Biden was born in 1942, so he was not born when the law was issued. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: When was the Buy American law issued ? Was Biden born when this law issued? 
+ 정답 The Buy American law was issued in 1933. Joe Biden was not born when this law was issued, as he was born on November 20, 1942. 
+ 답변 The Buy American law was issued in 1933. Yes, Biden was born in 1942, so he was not born when the law was issued. 
+ 판정 CORRECT
+ 12%|█▏        | 6/50 [00:13<01:29,  2.03s/it]
+ 질문 Based on State of the Union Address 2023: When was the Buy American law issued ? Was Biden born when this law issued? 
+ 정답 The Buy American law was issued in 1933. Joe Biden was not born when this law was issued, as he was born on November 20, 1942. 
+ 답변 The Buy American law was issued in 1933. Yes, Biden was born in 1942, so he was not born when the law was issued. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What are the middle classes's primary challenges over the decades? 
+ 정답 The middle class's primary challenges over the decades have been the hollowing out of the middle class, loss of good-paying manufacturing jobs, factories closing down, and declining pride and sense of self-worth. 
+ 답변 Cost of living, wages, and job security. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What are the middle classes's primary challenges over the decades? 
+ 정답 The middle class's primary challenges over the decades have been the hollowing out of the middle class, loss of good-paying manufacturing jobs, factories closing down, and declining pride and sense of self-worth. 
+ 답변 Cost of living, wages, and job security. 
+ 판정 CORRECT
+ 14%|█▍        | 7/50 [00:14<01:23,  1.94s/it]
+ 질문 Based on State of the Union Address 2023: What are the middle classes's primary challenges over the decades? 
+ 정답 The middle class's primary challenges over the decades have been the hollowing out of the middle class, loss of good-paying manufacturing jobs, factories closing down, and declining pride and sense of self-worth. 
+ 답변 Cost of living, wages, and job security. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What measures are being proposed to address the issue of gun violence in the United States? 
+ 정답 The administration is calling for the re-enactment of the assault weapons ban, as well as supporting red flag laws and enhanced background checks. 
+ 답변 Banning assault weapons, requiring background checks, and enacting safe storage laws. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What measures are being proposed to address the issue of gun violence in the United States? 
+ 정답 The administration is calling for the re-enactment of the assault weapons ban, as well as supporting red flag laws and enhanced background checks. 
+ 답변 Banning assault weapons, requiring background checks, and enacting safe storage laws. 
+ 판정 CORRECT
+ 16%|█▌        | 8/50 [00:16<01:19,  1.89s/it]
+ 질문 Based on State of the Union Address 2023: What measures are being proposed to address the issue of gun violence in the United States? 
+ 정답 The administration is calling for the re-enactment of the assault weapons ban, as well as supporting red flag laws and enhanced background checks. 
+ 답변 Banning assault weapons, requiring background checks, and enacting safe storage laws. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What Biden proposed for encouraging corporations for long-term investments ? 
+ 정답 Biden proposed to quadruple the tax on corporate stock buybacks to encourage corporations for long-term investments. 
+ 답변 Biden proposed quadrupling the tax on corporate stock buybacks. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What Biden proposed for encouraging corporations for long-term investments ? 
+ 정답 Biden proposed to quadruple the tax on corporate stock buybacks to encourage corporations for long-term investments. 
+ 답변 Biden proposed quadrupling the tax on corporate stock buybacks. 
+ 판정 CORRECT
+ 18%|█▊        | 9/50 [00:18<01:17,  1.88s/it]
+ 질문 Based on State of the Union Address 2023: What Biden proposed for encouraging corporations for long-term investments ? 
+ 정답 Biden proposed to quadruple the tax on corporate stock buybacks to encourage corporations for long-term investments. 
+ 답변 Biden proposed quadrupling the tax on corporate stock buybacks. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: Who is the new leader of the House Democrats and what is he known for? 
+ 정답 The new leader of the House Democrats is Hakeem Jeffries. He is known for being the first Black House Minority Leader in history. 
+ 답변 Hakeem Jeffries; known for his commitment to democracy. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: Who is the new leader of the House Democrats and what is he known for? 
+ 정답 The new leader of the House Democrats is Hakeem Jeffries. He is known for being the first Black House Minority Leader in history. 
+ 답변 Hakeem Jeffries; known for his commitment to democracy. 
+ 판정 CORRECT
+ 20%|██        | 10/50 [00:21<01:24,  2.12s/it]
+ 질문 Based on State of the Union Address 2023: Who is the new leader of the House Democrats and what is he known for? 
+ 정답 The new leader of the House Democrats is Hakeem Jeffries. He is known for being the first Black House Minority Leader in history. 
+ 답변 Hakeem Jeffries; known for his commitment to democracy. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How does Biden plan to support affordable and quality housing? 
+ 정답 Biden wants to pass a plan to provide more families access to affordable and quality housing and help seniors and people with disabilities receive home care services they need. 
+ 답변 Biden plans to support affordable and quality housing by reducing housing costs and increasing the supply of affordable housing. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How does Biden plan to support affordable and quality housing? 
+ 정답 Biden wants to pass a plan to provide more families access to affordable and quality housing and help seniors and people with disabilities receive home care services they need. 
+ 답변 Biden plans to support affordable and quality housing by reducing housing costs and increasing the supply of affordable housing. 
+ 판정 CORRECT
+ 22%|██▏       | 11/50 [00:23<01:20,  2.06s/it]
+ 질문 Based on State of the Union Address 2023: How does Biden plan to support affordable and quality housing? 
+ 정답 Biden wants to pass a plan to provide more families access to affordable and quality housing and help seniors and people with disabilities receive home care services they need. 
+ 답변 Biden plans to support affordable and quality housing by reducing housing costs and increasing the supply of affordable housing. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is the main contribution of cowboys of the sky? 
+ 정답 The main contribution of the "cowboys of the sky" (Ironworkers Local 44) is building major structures like skylines and bridges, showcasing their skill, expertise, and pride in their work. 
+ 답변 The main contribution of "cowboys of the sky" is maintaining safety and efficiency in aviation. 
+ 판정 INCORRECT
+
+ 질문 Based on State of the Union Address 2023: What is the main contribution of cowboys of the sky? 
+ 정답 The main contribution of the "cowboys of the sky" (Ironworkers Local 44) is building major structures like skylines and bridges, showcasing their skill, expertise, and pride in their work. 
+ 답변 The main contribution of "cowboys of the sky" is maintaining safety and efficiency in aviation. 
+ 판정 INCORRECT
+ 24%|██▍       | 12/50 [00:25<01:23,  2.19s/it]
+ 질문 Based on State of the Union Address 2023: What is the main contribution of cowboys of the sky? 
+ 정답 The main contribution of the "cowboys of the sky" (Ironworkers Local 44) is building major structures like skylines and bridges, showcasing their skill, expertise, and pride in their work. 
+ 답변 The main contribution of "cowboys of the sky" is maintaining safety and efficiency in aviation. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: Why Biden suggest to build an economy from the bottom up and the middle out, not from the top down ? 
+ 정답 Biden suggests building an economy from the bottom up and the middle out, not from the top down, because when the middle class does well, the poor have a ladder up, and the wealthy still do very well, leading to overall prosperity. 
+ 답변 Biden suggests this approach to ensure economic growth benefits everyone, not just the wealthy. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: Why Biden suggest to build an economy from the bottom up and the middle out, not from the top down ? 
+ 정답 Biden suggests building an economy from the bottom up and the middle out, not from the top down, because when the middle class does well, the poor have a ladder up, and the wealthy still do very well, leading to overall prosperity. 
+ 답변 Biden suggests this approach to ensure economic growth benefits everyone, not just the wealthy. 
+ 판정 CORRECT
+ 26%|██▌       | 13/50 [00:27<01:16,  2.06s/it]
+ 질문 Based on State of the Union Address 2023: Why Biden suggest to build an economy from the bottom up and the middle out, not from the top down ? 
+ 정답 Biden suggests building an economy from the bottom up and the middle out, not from the top down, because when the middle class does well, the poor have a ladder up, and the wealthy still do very well, leading to overall prosperity. 
+ 답변 Biden suggests this approach to ensure economic growth benefits everyone, not just the wealthy. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is the proposed billionaire minimum tax? 
+ 정답 The billionaire minimum tax is a proposal by Biden to ensure that billionaires pay a minimum tax rate, so they do not pay a lower tax rate than middle-class workers like school teachers or firefighters. 
+ 답변 The proposed billionaire minimum tax is 20%. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What is the proposed billionaire minimum tax? 
+ 정답 The billionaire minimum tax is a proposal by Biden to ensure that billionaires pay a minimum tax rate, so they do not pay a lower tax rate than middle-class workers like school teachers or firefighters. 
+ 답변 The proposed billionaire minimum tax is 20%. 
+ 판정 CORRECT
+ 28%|██▊       | 14/50 [00:29<01:10,  1.96s/it]
+ 질문 Based on State of the Union Address 2023: What is the proposed billionaire minimum tax? 
+ 정답 The billionaire minimum tax is a proposal by Biden to ensure that billionaires pay a minimum tax rate, so they do not pay a lower tax rate than middle-class workers like school teachers or firefighters. 
+ 답변 The proposed billionaire minimum tax is 20%. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How does Biden plan to make education more affordable? 
+ 정답 Biden aims to make education more affordable by reducing student debt, increasing Pell Grants for working- and middle-class families, and providing two years of free community college. 
+ 답변 Biden plans to increase Pell Grants, provide free community college, and support income-driven repayment plans. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How does Biden plan to make education more affordable? 
+ 정답 Biden aims to make education more affordable by reducing student debt, increasing Pell Grants for working- and middle-class families, and providing two years of free community college. 
+ 답변 Biden plans to increase Pell Grants, provide free community college, and support income-driven repayment plans. 
+ 판정 CORRECT
+ 30%|███       | 15/50 [00:31<01:10,  2.01s/it]
+ 질문 Based on State of the Union Address 2023: How does Biden plan to make education more affordable? 
+ 정답 Biden aims to make education more affordable by reducing student debt, increasing Pell Grants for working- and middle-class families, and providing two years of free community college. 
+ 답변 Biden plans to increase Pell Grants, provide free community college, and support income-driven repayment plans. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is the magnitude of percent change in gas price this year comparing to the peak of last year?  
+ 정답 Gas prices are down $1.50 a gallon since their peak, but the exact percentage change is not provided in the text. 
+ 답변 The gas price is down $1.50 per gallon, a 30% decrease from the peak of last year. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What is the magnitude of percent change in gas price this year comparing to the peak of last year?  
+ 정답 Gas prices are down $1.50 a gallon since their peak, but the exact percentage change is not provided in the text. 
+ 답변 The gas price is down $1.50 per gallon, a 30% decrease from the peak of last year. 
+ 판정 CORRECT
+ 32%|███▏      | 16/50 [00:33<01:09,  2.05s/it]
+ 질문 Based on State of the Union Address 2023: What is the magnitude of percent change in gas price this year comparing to the peak of last year?  
+ 정답 Gas prices are down $1.50 a gallon since their peak, but the exact percentage change is not provided in the text. 
+ 답변 The gas price is down $1.50 per gallon, a 30% decrease from the peak of last year. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How does the administration plan to tackle the problem of violent crime? 
+ 정답 By providing resources for law enforcement training, investing in housing, education, and job training, and supporting community intervention programs. 
+ 답변 The administration plans to tackle violent crime by investing in community policing and crime prevention programs. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How does the administration plan to tackle the problem of violent crime? 
+ 정답 By providing resources for law enforcement training, investing in housing, education, and job training, and supporting community intervention programs. 
+ 답변 The administration plans to tackle violent crime by investing in community policing and crime prevention programs. 
+ 판정 CORRECT
+ 34%|███▍      | 17/50 [00:35<01:04,  1.95s/it]
+ 질문 Based on State of the Union Address 2023: How does the administration plan to tackle the problem of violent crime? 
+ 정답 By providing resources for law enforcement training, investing in housing, education, and job training, and supporting community intervention programs. 
+ 답변 The administration plans to tackle violent crime by investing in community policing and crime prevention programs. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How many manufacturing jobs did Biden created over the two years? 
+ 정답 Biden's administration created 800,000 manufacturing jobs over the two years. 
+ 답변 800,000 manufacturing jobs. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How many manufacturing jobs did Biden created over the two years? 
+ 정답 Biden's administration created 800,000 manufacturing jobs over the two years. 
+ 답변 800,000 manufacturing jobs. 
+ 판정 CORRECT
+ 36%|███▌      | 18/50 [00:37<01:03,  1.97s/it]
+ 질문 Based on State of the Union Address 2023: How many manufacturing jobs did Biden created over the two years? 
+ 정답 Biden's administration created 800,000 manufacturing jobs over the two years. 
+ 답변 800,000 manufacturing jobs. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What actions did Biden take against gun violence ? 
+ 정답 Biden took action against gun violence by passing the most sweeping gun safety law in three decades, including enhanced background checks for 18 to 21-year-olds and red flag laws to keep guns out of the hands of dangerous individuals. 
+ 답변 Biden signed the Bipartisan Safer Communities Act into law, aimed at reducing gun violence. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What actions did Biden take against gun violence ? 
+ 정답 Biden took action against gun violence by passing the most sweeping gun safety law in three decades, including enhanced background checks for 18 to 21-year-olds and red flag laws to keep guns out of the hands of dangerous individuals. 
+ 답변 Biden signed the Bipartisan Safer Communities Act into law, aimed at reducing gun violence. 
+ 판정 CORRECT
+ 38%|███▊      | 19/50 [00:39<00:59,  1.92s/it]
+ 질문 Based on State of the Union Address 2023: What actions did Biden take against gun violence ? 
+ 정답 Biden took action against gun violence by passing the most sweeping gun safety law in three decades, including enhanced background checks for 18 to 21-year-olds and red flag laws to keep guns out of the hands of dangerous individuals. 
+ 답변 Biden signed the Bipartisan Safer Communities Act into law, aimed at reducing gun violence. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What measures will be taken to eliminate surprise "resort fees" charged by hotels? 
+ 정답 The Junk Fee Prevention Act will ban these fees, preventing hotels from tacking them onto customers' bills. 
+ 답변 The measures include requiring hotels to disclose all fees upfront. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What measures will be taken to eliminate surprise "resort fees" charged by hotels? 
+ 정답 The Junk Fee Prevention Act will ban these fees, preventing hotels from tacking them onto customers' bills. 
+ 답변 The measures include requiring hotels to disclose all fees upfront. 
+ 판정 CORRECT
+ 40%|████      | 20/50 [00:40<00:56,  1.90s/it]
+ 질문 Based on State of the Union Address 2023: What measures will be taken to eliminate surprise "resort fees" charged by hotels? 
+ 정답 The Junk Fee Prevention Act will ban these fees, preventing hotels from tacking them onto customers' bills. 
+ 답변 The measures include requiring hotels to disclose all fees upfront. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What actions did Democrats and Republicans take together over the two past years? 
+ 정답 1.Defending a stronger and safer Europe. 2.Passing a once-in-a-generation infrastructure law, building bridges to connect the nation and people. 3.Passing one of the most significant laws ever to help veterans exposed to toxic burn pits. 4.Signing over 300 bipartisan laws, such as reauthorizing the Violence Against Women Act, the Electoral Count Reform Act, and the Respect for Marriage Act, which protects the right to marry the person you love. 
+ 답변 They passed the Bipartisan Infrastructure Law, the CHIPS and Science Act, and the PACT Act. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What actions did Democrats and Republicans take together over the two past years? 
+ 정답 1.Defending a stronger and safer Europe. 2.Passing a once-in-a-generation infrastructure law, building bridges to connect the nation and people. 3.Passing one of the most significant laws ever to help veterans exposed to toxic burn pits. 4.Signing over 300 bipartisan laws, such as reauthorizing the Violence Against Women Act, the Electoral Count Reform Act, and the Respect for Marriage Act, which protects the right to marry the person you love. 
+ 답변 They passed the Bipartisan Infrastructure Law, the CHIPS and Science Act, and the PACT Act. 
+ 판정 CORRECT
+ 42%|████▏     | 21/50 [00:42<00:54,  1.90s/it]
+ 질문 Based on State of the Union Address 2023: What actions did Democrats and Republicans take together over the two past years? 
+ 정답 1.Defending a stronger and safer Europe. 2.Passing a once-in-a-generation infrastructure law, building bridges to connect the nation and people. 3.Passing one of the most significant laws ever to help veterans exposed to toxic burn pits. 4.Signing over 300 bipartisan laws, such as reauthorizing the Violence Against Women Act, the Electoral Count Reform Act, and the Respect for Marriage Act, which protects the right to marry the person you love. 
+ 답변 They passed the Bipartisan Infrastructure Law, the CHIPS and Science Act, and the PACT Act. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How much deficit was cut in total in the past two years? 
+ 정답 The deficit was cut by more than $1.7 trillion in the past two years. 
+ 답변 $1.7 trillion. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How much deficit was cut in total in the past two years? 
+ 정답 The deficit was cut by more than $1.7 trillion in the past two years. 
+ 답변 $1.7 trillion. 
+ 판정 CORRECT
+ 44%|████▍     | 22/50 [00:44<00:53,  1.90s/it]
+ 질문 Based on State of the Union Address 2023: How much deficit was cut in total in the past two years? 
+ 정답 The deficit was cut by more than $1.7 trillion in the past two years. 
+ 답변 $1.7 trillion. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How did Biden's administration save consumers from surprise medical bills? 
+ 정답 Biden's administration prevented insurance companies from sending surprise medical bills, stopping 1 million surprise bills a month. 
+ 답변 Biden's administration implemented the No Surprises Act to prevent unexpected medical bills. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How did Biden's administration save consumers from surprise medical bills? 
+ 정답 Biden's administration prevented insurance companies from sending surprise medical bills, stopping 1 million surprise bills a month. 
+ 답변 Biden's administration implemented the No Surprises Act to prevent unexpected medical bills. 
+ 판정 CORRECT
+ 46%|████▌     | 23/50 [00:48<01:05,  2.42s/it]
+ 질문 Based on State of the Union Address 2023: How did Biden's administration save consumers from surprise medical bills? 
+ 정답 Biden's administration prevented insurance companies from sending surprise medical bills, stopping 1 million surprise bills a month. 
+ 답변 Biden's administration implemented the No Surprises Act to prevent unexpected medical bills. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How did Biden fix the issue with Buy American law? 
+ 정답 To fix the issue with the Buy American law, Biden announced new standards that require all construction materials used in federal infrastructure projects to be made in America, ensuring American roads, bridges, and highways are made with American products. 
+ 답변 Biden enforced Buy American laws by ensuring all construction materials used in federal infrastructure projects are made in America. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How did Biden fix the issue with Buy American law? 
+ 정답 To fix the issue with the Buy American law, Biden announced new standards that require all construction materials used in federal infrastructure projects to be made in America, ensuring American roads, bridges, and highways are made with American products. 
+ 답변 Biden enforced Buy American laws by ensuring all construction materials used in federal infrastructure projects are made in America. 
+ 판정 CORRECT
+ 48%|████▊     | 24/50 [00:50<00:58,  2.24s/it]
+ 질문 Based on State of the Union Address 2023: How did Biden fix the issue with Buy American law? 
+ 정답 To fix the issue with the Buy American law, Biden announced new standards that require all construction materials used in federal infrastructure projects to be made in America, ensuring American roads, bridges, and highways are made with American products. 
+ 답변 Biden enforced Buy American laws by ensuring all construction materials used in federal infrastructure projects are made in America. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What does Brent Spence project aim for? What are its significance? 
+ 정답 The Brent Spence project aims to repair and improve the Brent Spence bridge between Kentucky and Ohio, which is one of the nation's most congested freight routes carrying $2 billion worth of freight every day. Its significance lies in enhancing infrastructure, facilitating trade and transportation, and supporting economic growth. 
+ 답변 The Brent Spence project aims to repair the Brent Spence Bridge and build a new bridge connecting Kentucky and Ohio. Its significance lies in improving transportation infrastructure, reducing congestion, and enhancing economic growth in the region. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What does Brent Spence project aim for? What are its significance? 
+ 정답 The Brent Spence project aims to repair and improve the Brent Spence bridge between Kentucky and Ohio, which is one of the nation's most congested freight routes carrying $2 billion worth of freight every day. Its significance lies in enhancing infrastructure, facilitating trade and transportation, and supporting economic growth. 
+ 답변 The Brent Spence project aims to repair the Brent Spence Bridge and build a new bridge connecting Kentucky and Ohio. Its significance lies in improving transportation infrastructure, reducing congestion, and enhancing economic growth in the region. 
+ 판정 CORRECT
+ 50%|█████     | 25/50 [00:52<00:56,  2.27s/it]
+ 질문 Based on State of the Union Address 2023: What does Brent Spence project aim for? What are its significance? 
+ 정답 The Brent Spence project aims to repair and improve the Brent Spence bridge between Kentucky and Ohio, which is one of the nation's most congested freight routes carrying $2 billion worth of freight every day. Its significance lies in enhancing infrastructure, facilitating trade and transportation, and supporting economic growth. 
+ 답변 The Brent Spence project aims to repair the Brent Spence Bridge and build a new bridge connecting Kentucky and Ohio. Its significance lies in improving transportation infrastructure, reducing congestion, and enhancing economic growth in the region. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How does the administration plan to address competition with China while avoiding conflict? 
+ 정답 By investing in American innovation, strengthening alliances, modernizing the military, and working with China where it can advance American interests and benefit the world. 
+ 답변 The administration plans to invest in American innovation, alliances, and military to compete with China while avoiding conflict. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How does the administration plan to address competition with China while avoiding conflict? 
+ 정답 By investing in American innovation, strengthening alliances, modernizing the military, and working with China where it can advance American interests and benefit the world. 
+ 답변 The administration plans to invest in American innovation, alliances, and military to compete with China while avoiding conflict. 
+ 판정 CORRECT
+ 52%|█████▏    | 26/50 [00:54<00:51,  2.15s/it]
+ 질문 Based on State of the Union Address 2023: How does the administration plan to address competition with China while avoiding conflict? 
+ 정답 By investing in American innovation, strengthening alliances, modernizing the military, and working with China where it can advance American interests and benefit the world. 
+ 답변 The administration plans to invest in American innovation, alliances, and military to compete with China while avoiding conflict. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What are example of bipartisan laws did Biden mostly signed? 
+ 정답 Bipartisan laws mentioned in the text include the CHIPS and Science Act and the Bipartisan Infrastructure Law. 
+ 답변 Biden mostly signed laws on infrastructure, veterans' health care, and electoral reform. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What are example of bipartisan laws did Biden mostly signed? 
+ 정답 Bipartisan laws mentioned in the text include the CHIPS and Science Act and the Bipartisan Infrastructure Law. 
+ 답변 Biden mostly signed laws on infrastructure, veterans' health care, and electoral reform. 
+ 판정 CORRECT
+ 54%|█████▍    | 27/50 [00:56<00:47,  2.07s/it]
+ 질문 Based on State of the Union Address 2023: What are example of bipartisan laws did Biden mostly signed? 
+ 정답 Bipartisan laws mentioned in the text include the CHIPS and Science Act and the Bipartisan Infrastructure Law. 
+ 답변 Biden mostly signed laws on infrastructure, veterans' health care, and electoral reform. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What are the goals of Intels's semiconductor factories?  
+ 정답 The goals of Intel's semiconductor factories are to create thousands of jobs (10,000 jobs in total - 7,000 construction jobs and 3,000 jobs once the factories are finished) and to help regain America's leadership in semiconductor manufacturing. 
+ 답변 To make America a leader in semiconductor production. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What are the goals of Intels's semiconductor factories?  
+ 정답 The goals of Intel's semiconductor factories are to create thousands of jobs (10,000 jobs in total - 7,000 construction jobs and 3,000 jobs once the factories are finished) and to help regain America's leadership in semiconductor manufacturing. 
+ 답변 To make America a leader in semiconductor production. 
+ 판정 CORRECT
+ 56%|█████▌    | 28/50 [00:58<00:44,  2.03s/it]
+ 질문 Based on State of the Union Address 2023: What are the goals of Intels's semiconductor factories?  
+ 정답 The goals of Intel's semiconductor factories are to create thousands of jobs (10,000 jobs in total - 7,000 construction jobs and 3,000 jobs once the factories are finished) and to help regain America's leadership in semiconductor manufacturing. 
+ 답변 To make America a leader in semiconductor production. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is Biden's strategy towrads US economy ? 
+ 정답 Biden's strategy towards the US economy involves reducing the deficit, ensuring tax fairness, protecting Social Security and Medicare, and promoting competition. He aims to make the wealthy and big corporations pay their fair share and support policies that benefit the majority of Americans. 
+ 답변 Biden's strategy focuses on job creation, infrastructure investment, manufacturing revitalization, and reducing inflation. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What is Biden's strategy towrads US economy ? 
+ 정답 Biden's strategy towards the US economy involves reducing the deficit, ensuring tax fairness, protecting Social Security and Medicare, and promoting competition. He aims to make the wealthy and big corporations pay their fair share and support policies that benefit the majority of Americans. 
+ 답변 Biden's strategy focuses on job creation, infrastructure investment, manufacturing revitalization, and reducing inflation. 
+ 판정 CORRECT
+ 58%|█████▊    | 29/50 [01:00<00:42,  2.01s/it]
+ 질문 Based on State of the Union Address 2023: What is Biden's strategy towrads US economy ? 
+ 정답 Biden's strategy towards the US economy involves reducing the deficit, ensuring tax fairness, protecting Social Security and Medicare, and promoting competition. He aims to make the wealthy and big corporations pay their fair share and support policies that benefit the majority of Americans. 
+ 답변 Biden's strategy focuses on job creation, infrastructure investment, manufacturing revitalization, and reducing inflation. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What are the main causes of recent Inflation?   
+ 정답 The main causes of recent inflation are the pandemic that disrupted supply chains and Putin's war that disrupted energy and food supplies. 
+ 답변 Supply chain disruptions, labor shortages, and increased demand. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What are the main causes of recent Inflation?   
+ 정답 The main causes of recent inflation are the pandemic that disrupted supply chains and Putin's war that disrupted energy and food supplies. 
+ 답변 Supply chain disruptions, labor shortages, and increased demand. 
+ 판정 CORRECT
+ 60%|██████    | 30/50 [01:02<00:40,  2.03s/it]
+ 질문 Based on State of the Union Address 2023: What are the main causes of recent Inflation?   
+ 정답 The main causes of recent inflation are the pandemic that disrupted supply chains and Putin's war that disrupted energy and food supplies. 
+ 답변 Supply chain disruptions, labor shortages, and increased demand. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What laws about veterans are passed? 
+ 정답 The law addressing veterans exposed to toxic burn pits. 
+ 답변 The State of the Union Address 2023 did not specify any new laws about veterans being passed. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What laws about veterans are passed? 
+ 정답 The law addressing veterans exposed to toxic burn pits. 
+ 답변 The State of the Union Address 2023 did not specify any new laws about veterans being passed. 
+ 판정 CORRECT
+ 62%|██████▏   | 31/50 [01:03<00:36,  1.94s/it]
+ 질문 Based on State of the Union Address 2023: What laws about veterans are passed? 
+ 정답 The law addressing veterans exposed to toxic burn pits. 
+ 답변 The State of the Union Address 2023 did not specify any new laws about veterans being passed. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023:  What is the proposed expansion of public education in the U.S.? 
+ 정답 Biden proposes providing access to pre-school for 3- and 4-year-olds, offering two years of community college, and connecting students to career opportunities starting in high school. 
+ 답변 Universal pre-K and two years of community college. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023:  What is the proposed expansion of public education in the U.S.? 
+ 정답 Biden proposes providing access to pre-school for 3- and 4-year-olds, offering two years of community college, and connecting students to career opportunities starting in high school. 
+ 답변 Universal pre-K and two years of community college. 
+ 판정 CORRECT
+ 64%|██████▍   | 32/50 [01:05<00:33,  1.87s/it]
+ 질문 Based on State of the Union Address 2023:  What is the proposed expansion of public education in the U.S.? 
+ 정답 Biden proposes providing access to pre-school for 3- and 4-year-olds, offering two years of community college, and connecting students to career opportunities starting in high school. 
+ 답변 Universal pre-K and two years of community college. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How has the COVID pandemic situation changed under Biden's administration? 
+ 정답  Under Biden's administration, COVID deaths have decreased by nearly 90%, millions of lives have been saved, and the country has reopened. The public health emergency will soon end. 
+ 답변 The COVID pandemic situation has improved with widespread vaccinations, reduced deaths, and the economy reopening. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How has the COVID pandemic situation changed under Biden's administration? 
+ 정답  Under Biden's administration, COVID deaths have decreased by nearly 90%, millions of lives have been saved, and the country has reopened. The public health emergency will soon end. 
+ 답변 The COVID pandemic situation has improved with widespread vaccinations, reduced deaths, and the economy reopening. 
+ 판정 CORRECT
+ 66%|██████▌   | 33/50 [01:07<00:32,  1.92s/it]
+ 질문 Based on State of the Union Address 2023: How has the COVID pandemic situation changed under Biden's administration? 
+ 정답  Under Biden's administration, COVID deaths have decreased by nearly 90%, millions of lives have been saved, and the country has reopened. The public health emergency will soon end. 
+ 답변 The COVID pandemic situation has improved with widespread vaccinations, reduced deaths, and the economy reopening. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: Why the U.S. tax system is unfair ? 
+ 정답 The U.S. tax system is considered unfair because big corporations and the wealthy often pay little to no taxes while middle-class and low-income earners pay a higher percentage of their income in taxes. For example, in 2020, 55 of the biggest companies in America made $40 billion in profits and paid zero in federal income taxes. 
+ 답변 The U.S. tax system is considered unfair because billionaires pay a lower tax rate than teachers and firefighters. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: Why the U.S. tax system is unfair ? 
+ 정답 The U.S. tax system is considered unfair because big corporations and the wealthy often pay little to no taxes while middle-class and low-income earners pay a higher percentage of their income in taxes. For example, in 2020, 55 of the biggest companies in America made $40 billion in profits and paid zero in federal income taxes. 
+ 답변 The U.S. tax system is considered unfair because billionaires pay a lower tax rate than teachers and firefighters. 
+ 판정 CORRECT
+ 68%|██████▊   | 34/50 [01:09<00:29,  1.87s/it]
+ 질문 Based on State of the Union Address 2023: Why the U.S. tax system is unfair ? 
+ 정답 The U.S. tax system is considered unfair because big corporations and the wealthy often pay little to no taxes while middle-class and low-income earners pay a higher percentage of their income in taxes. For example, in 2020, 55 of the biggest companies in America made $40 billion in profits and paid zero in federal income taxes. 
+ 답변 The U.S. tax system is considered unfair because billionaires pay a lower tax rate than teachers and firefighters. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What are evidences that Biden claims to see Inflation coming down? 
+ 정답 The evidences Biden claims to see inflation coming down are: gas prices are down $1.50 a gallon since their peak, food inflation is coming down, and inflation has fallen every month for the last six months while take-home pay has gone up. 
+ 답변 Gas prices down, food inflation slowing, and overall inflation easing. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What are evidences that Biden claims to see Inflation coming down? 
+ 정답 The evidences Biden claims to see inflation coming down are: gas prices are down $1.50 a gallon since their peak, food inflation is coming down, and inflation has fallen every month for the last six months while take-home pay has gone up. 
+ 답변 Gas prices down, food inflation slowing, and overall inflation easing. 
+ 판정 CORRECT
+ 70%|███████   | 35/50 [01:11<00:28,  1.88s/it]
+ 질문 Based on State of the Union Address 2023: What are evidences that Biden claims to see Inflation coming down? 
+ 정답 The evidences Biden claims to see inflation coming down are: gas prices are down $1.50 a gallon since their peak, food inflation is coming down, and inflation has fallen every month for the last six months while take-home pay has gone up. 
+ 답변 Gas prices down, food inflation slowing, and overall inflation easing. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is the administration doing to address the opioid crisis and fentanyl overdose deaths in the United States? 
+ 정답 The administration is working on making it easier for doctors to prescribe effective treatments for opioid addiction, raising awareness, and tackling the issue of fentanyl entering the country. 
+ 답변 The administration is increasing drug detection machines, inspecting cargo, and working with couriers to inspect packages. 
+ 판정 INCORRECT
+
+ 질문 Based on State of the Union Address 2023: What is the administration doing to address the opioid crisis and fentanyl overdose deaths in the United States? 
+ 정답 The administration is working on making it easier for doctors to prescribe effective treatments for opioid addiction, raising awareness, and tackling the issue of fentanyl entering the country. 
+ 답변 The administration is increasing drug detection machines, inspecting cargo, and working with couriers to inspect packages. 
+ 판정 INCORRECT
+ 72%|███████▏  | 36/50 [01:13<00:26,  1.92s/it]
+ 질문 Based on State of the Union Address 2023: What is the administration doing to address the opioid crisis and fentanyl overdose deaths in the United States? 
+ 정답 The administration is working on making it easier for doctors to prescribe effective treatments for opioid addiction, raising awareness, and tackling the issue of fentanyl entering the country. 
+ 답변 The administration is increasing drug detection machines, inspecting cargo, and working with couriers to inspect packages. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is the name of the law passed on Chips and what are its targeting problems? 
+ 정답 The law passed on chips is called the Bipartisan CHIPS and Science Act. It targets problems like the loss of America's edge in semiconductor manufacturing, supply chain dependency on overseas chip factories, and the subsequent economic impacts on various industries, including the automotive industry. 
+ 답변 The law is called the CHIPS and Science Act. It targets problems related to the semiconductor supply chain and aims to boost American manufacturing and innovation. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What is the name of the law passed on Chips and what are its targeting problems? 
+ 정답 The law passed on chips is called the Bipartisan CHIPS and Science Act. It targets problems like the loss of America's edge in semiconductor manufacturing, supply chain dependency on overseas chip factories, and the subsequent economic impacts on various industries, including the automotive industry. 
+ 답변 The law is called the CHIPS and Science Act. It targets problems related to the semiconductor supply chain and aims to boost American manufacturing and innovation. 
+ 판정 CORRECT
+ 74%|███████▍  | 37/50 [01:15<00:25,  1.98s/it]
+ 질문 Based on State of the Union Address 2023: What is the name of the law passed on Chips and what are its targeting problems? 
+ 정답 The law passed on chips is called the Bipartisan CHIPS and Science Act. It targets problems like the loss of America's edge in semiconductor manufacturing, supply chain dependency on overseas chip factories, and the subsequent economic impacts on various industries, including the automotive industry. 
+ 답변 The law is called the CHIPS and Science Act. It targets problems related to the semiconductor supply chain and aims to boost American manufacturing and innovation. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How will the administration ensure affordable childcare for working parents? 
+ 정답 By advocating for policies providing sick days, paid family and medical leave, and affordable childcare for working parents. 
+ 답변 The administration plans to ensure affordable childcare for working parents by increasing funding for childcare programs and providing tax credits. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How will the administration ensure affordable childcare for working parents? 
+ 정답 By advocating for policies providing sick days, paid family and medical leave, and affordable childcare for working parents. 
+ 답변 The administration plans to ensure affordable childcare for working parents by increasing funding for childcare programs and providing tax credits. 
+ 판정 CORRECT
+ 76%|███████▌  | 38/50 [01:17<00:23,  1.97s/it]
+ 질문 Based on State of the Union Address 2023: How will the administration ensure affordable childcare for working parents? 
+ 정답 By advocating for policies providing sick days, paid family and medical leave, and affordable childcare for working parents. 
+ 답변 The administration plans to ensure affordable childcare for working parents by increasing funding for childcare programs and providing tax credits. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: Why does Biden think the story of America is unique among all nations? 
+ 정답 Biden thinks the story of America is unique among all nations because it is a story of progress and resilience. He believes that the United States is the only country that has emerged from every crisis stronger than when it entered it, always moving forward and never giving up. 
+ 답변 Biden believes America's story is unique because it is about progress and resilience, constantly overcoming challenges and striving for a more perfect union. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: Why does Biden think the story of America is unique among all nations? 
+ 정답 Biden thinks the story of America is unique among all nations because it is a story of progress and resilience. He believes that the United States is the only country that has emerged from every crisis stronger than when it entered it, always moving forward and never giving up. 
+ 답변 Biden believes America's story is unique because it is about progress and resilience, constantly overcoming challenges and striving for a more perfect union. 
+ 판정 CORRECT
+ 78%|███████▊  | 39/50 [01:19<00:21,  1.92s/it]
+ 질문 Based on State of the Union Address 2023: Why does Biden think the story of America is unique among all nations? 
+ 정답 Biden thinks the story of America is unique among all nations because it is a story of progress and resilience. He believes that the United States is the only country that has emerged from every crisis stronger than when it entered it, always moving forward and never giving up. 
+ 답변 Biden believes America's story is unique because it is about progress and resilience, constantly overcoming challenges and striving for a more perfect union. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: Is Biden supportive of electronic vehicles? 
+ 정답 Yes, Biden is supportive of electronic vehicles, as evident from the construction of 500,000 electric vehicle charging stations and providing tax credits for the purchase of electric vehicles and energy-efficient appliances. 
+ 답변 Yes. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: Is Biden supportive of electronic vehicles? 
+ 정답 Yes, Biden is supportive of electronic vehicles, as evident from the construction of 500,000 electric vehicle charging stations and providing tax credits for the purchase of electric vehicles and energy-efficient appliances. 
+ 답변 Yes. 
+ 판정 CORRECT
+ 80%|████████  | 40/50 [01:20<00:18,  1.83s/it]
+ 질문 Based on State of the Union Address 2023: Is Biden supportive of electronic vehicles? 
+ 정답 Yes, Biden is supportive of electronic vehicles, as evident from the construction of 500,000 electric vehicle charging stations and providing tax credits for the purchase of electric vehicles and energy-efficient appliances. 
+ 답변 Yes. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is the current unemployment rate to the power of 0.98? 
+ 정답 The current unemployment rate is 3.4%. To calculate the unemployment rate to the power of 0.98, you would perform the following calculation: 3.4^0.98 ≈ 3.317. 
+ 답변 The current unemployment rate is 3.4%. To the power of 0.98, it is approximately 3.36%. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What is the current unemployment rate to the power of 0.98? 
+ 정답 The current unemployment rate is 3.4%. To calculate the unemployment rate to the power of 0.98, you would perform the following calculation: 3.4^0.98 ≈ 3.317. 
+ 답변 The current unemployment rate is 3.4%. To the power of 0.98, it is approximately 3.36%. 
+ 판정 CORRECT
+ 82%|████████▏ | 41/50 [01:22<00:16,  1.86s/it]
+ 질문 Based on State of the Union Address 2023: What is the current unemployment rate to the power of 0.98? 
+ 정답 The current unemployment rate is 3.4%. To calculate the unemployment rate to the power of 0.98, you would perform the following calculation: 3.4^0.98 ≈ 3.317. 
+ 답변 The current unemployment rate is 3.4%. To the power of 0.98, it is approximately 3.36%. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: How many people enrolled under the Affordable Care Act ? 
+ 정답 A record 16 million people are enrolled under the Affordable Care Act. 
+ 답변 16 million. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: How many people enrolled under the Affordable Care Act ? 
+ 정답 A record 16 million people are enrolled under the Affordable Care Act. 
+ 답변 16 million. 
+ 판정 CORRECT
+ 84%|████████▍ | 42/50 [01:24<00:15,  1.88s/it]
+ 질문 Based on State of the Union Address 2023: How many people enrolled under the Affordable Care Act ? 
+ 정답 A record 16 million people are enrolled under the Affordable Care Act. 
+ 답변 16 million. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is Biden's new border plan ? How it works ? 
+ 정답 Biden did not provide specific details about the new border plan in this speech, but he mentioned that it has led to a 97% decrease in unlawful migration from Cuba, Haiti, Nicaragua, and Venezuela. He called on Congress to pass his plan to provide the equipment and officers to secure the border and offer a pathway to citizenship for Dreamers, those on temporary status, farm workers, and essential workers. 
+ 답변 Biden's new border plan increases border security, expands legal pathways, and accelerates asylum processing. It includes more resources for border enforcement and collaboration with other countries to manage migration. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What is Biden's new border plan ? How it works ? 
+ 정답 Biden did not provide specific details about the new border plan in this speech, but he mentioned that it has led to a 97% decrease in unlawful migration from Cuba, Haiti, Nicaragua, and Venezuela. He called on Congress to pass his plan to provide the equipment and officers to secure the border and offer a pathway to citizenship for Dreamers, those on temporary status, farm workers, and essential workers. 
+ 답변 Biden's new border plan increases border security, expands legal pathways, and accelerates asylum processing. It includes more resources for border enforcement and collaboration with other countries to manage migration. 
+ 판정 CORRECT
+ 86%|████████▌ | 43/50 [01:26<00:13,  1.96s/it]
+ 질문 Based on State of the Union Address 2023: What is Biden's new border plan ? How it works ? 
+ 정답 Biden did not provide specific details about the new border plan in this speech, but he mentioned that it has led to a 97% decrease in unlawful migration from Cuba, Haiti, Nicaragua, and Venezuela. He called on Congress to pass his plan to provide the equipment and officers to secure the border and offer a pathway to citizenship for Dreamers, those on temporary status, farm workers, and essential workers. 
+ 답변 Biden's new border plan increases border security, expands legal pathways, and accelerates asylum processing. It includes more resources for border enforcement and collaboration with other countries to manage migration. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What did Biden do to make America's infrastructure great again? 
+ 정답 To make America's infrastructure great again, Biden passed the Bipartisan Infrastructure Law, which is the largest investment in infrastructure since President Eisenhower's Interstate Highway System. It funds over 20,000 projects, including major airports, highways, bridges, railroads, tunnels, ports, clean water, and high-speed internet across the country. 
+ 답변 Biden signed the Bipartisan Infrastructure Law to invest in roads, bridges, rail, and broadband. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What did Biden do to make America's infrastructure great again? 
+ 정답 To make America's infrastructure great again, Biden passed the Bipartisan Infrastructure Law, which is the largest investment in infrastructure since President Eisenhower's Interstate Highway System. It funds over 20,000 projects, including major airports, highways, bridges, railroads, tunnels, ports, clean water, and high-speed internet across the country. 
+ 답변 Biden signed the Bipartisan Infrastructure Law to invest in roads, bridges, rail, and broadband. 
+ 판정 CORRECT
+ 88%|████████▊ | 44/50 [01:28<00:11,  1.99s/it]
+ 질문 Based on State of the Union Address 2023: What did Biden do to make America's infrastructure great again? 
+ 정답 To make America's infrastructure great again, Biden passed the Bipartisan Infrastructure Law, which is the largest investment in infrastructure since President Eisenhower's Interstate Highway System. It funds over 20,000 projects, including major airports, highways, bridges, railroads, tunnels, ports, clean water, and high-speed internet across the country. 
+ 답변 Biden signed the Bipartisan Infrastructure Law to invest in roads, bridges, rail, and broadband. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What actions did Biden take to improve Social Security? 
+ 정답 Biden pledged to protect Social Security and Medicare, vowing to stop any attempts to cut these programs. He plans to extend the Medicare Trust Fund by at least two decades without cutting any benefits. 
+ 답변 Biden did not take specific actions to improve Social Security in the State of the Union Address 2023. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What actions did Biden take to improve Social Security? 
+ 정답 Biden pledged to protect Social Security and Medicare, vowing to stop any attempts to cut these programs. He plans to extend the Medicare Trust Fund by at least two decades without cutting any benefits. 
+ 답변 Biden did not take specific actions to improve Social Security in the State of the Union Address 2023. 
+ 판정 CORRECT
+ 90%|█████████ | 45/50 [01:30<00:09,  1.96s/it]
+ 질문 Based on State of the Union Address 2023: What actions did Biden take to improve Social Security? 
+ 정답 Biden pledged to protect Social Security and Medicare, vowing to stop any attempts to cut these programs. He plans to extend the Medicare Trust Fund by at least two decades without cutting any benefits. 
+ 답변 Biden did not take specific actions to improve Social Security in the State of the Union Address 2023. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is Biden's stance on non-compete agreements? 
+ 정답 Biden wants to ban non-compete agreements, which he believes prevent companies from competing for workers and paying them what they are worth. 
+ 답변 Biden opposes non-compete agreements. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What is Biden's stance on non-compete agreements? 
+ 정답 Biden wants to ban non-compete agreements, which he believes prevent companies from competing for workers and paying them what they are worth. 
+ 답변 Biden opposes non-compete agreements. 
+ 판정 CORRECT
+ 92%|█████████▏| 46/50 [01:32<00:07,  1.90s/it]
+ 질문 Based on State of the Union Address 2023: What is Biden's stance on non-compete agreements? 
+ 정답 Biden wants to ban non-compete agreements, which he believes prevent companies from competing for workers and paying them what they are worth. 
+ 답변 Biden opposes non-compete agreements. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What efforts did Biden do for Americans who need insulin ? 
+ 정답 Biden's efforts for Americans who need insulin include capping the cost of insulin at $35 a month for seniors on Medicare, and he proposed to cap the cost of insulin at $35 a month for every American who needs it. 
+ 답변 Biden capped insulin costs at $35 per month for seniors on Medicare. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What efforts did Biden do for Americans who need insulin ? 
+ 정답 Biden's efforts for Americans who need insulin include capping the cost of insulin at $35 a month for seniors on Medicare, and he proposed to cap the cost of insulin at $35 a month for every American who needs it. 
+ 답변 Biden capped insulin costs at $35 per month for seniors on Medicare. 
+ 판정 CORRECT
+ 94%|█████████▍| 47/50 [01:34<00:05,  1.88s/it]
+ 질문 Based on State of the Union Address 2023: What efforts did Biden do for Americans who need insulin ? 
+ 정답 Biden's efforts for Americans who need insulin include capping the cost of insulin at $35 a month for seniors on Medicare, and he proposed to cap the cost of insulin at $35 a month for every American who needs it. 
+ 답변 Biden capped insulin costs at $35 per month for seniors on Medicare. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What is Biden's economic plan and why should it work? 
+ 정답 Biden's economic plan is a blue-collar blueprint to rebuild America, investing in places and people that have been forgotten. It aims to create jobs, bring back pride, and ensure no one is left behind. It should work by focusing on American-made materials, reducing healthcare costs, and addressing the climate crisis, among other initiatives. 
+ 답변 Biden's economic plan focuses on investing in infrastructure, manufacturing, clean energy, and technology. It aims to create jobs, boost economic growth, and enhance global competitiveness. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What is Biden's economic plan and why should it work? 
+ 정답 Biden's economic plan is a blue-collar blueprint to rebuild America, investing in places and people that have been forgotten. It aims to create jobs, bring back pride, and ensure no one is left behind. It should work by focusing on American-made materials, reducing healthcare costs, and addressing the climate crisis, among other initiatives. 
+ 답변 Biden's economic plan focuses on investing in infrastructure, manufacturing, clean energy, and technology. It aims to create jobs, boost economic growth, and enhance global competitiveness. 
+ 판정 CORRECT
+ 96%|█████████▌| 48/50 [01:36<00:03,  1.89s/it]
+ 질문 Based on State of the Union Address 2023: What is Biden's economic plan and why should it work? 
+ 정답 Biden's economic plan is a blue-collar blueprint to rebuild America, investing in places and people that have been forgotten. It aims to create jobs, bring back pride, and ensure no one is left behind. It should work by focusing on American-made materials, reducing healthcare costs, and addressing the climate crisis, among other initiatives. 
+ 답변 Biden's economic plan focuses on investing in infrastructure, manufacturing, clean energy, and technology. It aims to create jobs, boost economic growth, and enhance global competitiveness. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: Why Biden passed the bipartisan CHIPS and Science Act ? 
+ 정답 Biden passed the bipartisan CHIPS and Science Act to ensure that the supply chain for America begins in America, create jobs, and prevent future shortages of essential components like semiconductors. 
+ 답변 To boost semiconductor manufacturing and innovation in the U.S. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: Why Biden passed the bipartisan CHIPS and Science Act ? 
+ 정답 Biden passed the bipartisan CHIPS and Science Act to ensure that the supply chain for America begins in America, create jobs, and prevent future shortages of essential components like semiconductors. 
+ 답변 To boost semiconductor manufacturing and innovation in the U.S. 
+ 판정 CORRECT
+ 98%|█████████▊| 49/50 [01:38<00:01,  1.92s/it]
+ 질문 Based on State of the Union Address 2023: Why Biden passed the bipartisan CHIPS and Science Act ? 
+ 정답 Biden passed the bipartisan CHIPS and Science Act to ensure that the supply chain for America begins in America, create jobs, and prevent future shortages of essential components like semiconductors. 
+ 답변 To boost semiconductor manufacturing and innovation in the U.S. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Based on State of the Union Address 2023: What are the main type of jobs that Biden created during COVID? 
+ 정답 The speech highlights the creation of 800,000 good-paying manufacturing jobs, which experienced the fastest growth in 40 years. 
+ 답변 Manufacturing jobs. 
+ 판정 CORRECT
+
+ 질문 Based on State of the Union Address 2023: What are the main type of jobs that Biden created during COVID? 
+ 정답 The speech highlights the creation of 800,000 good-paying manufacturing jobs, which experienced the fastest growth in 40 years. 
+ 답변 Manufacturing jobs. 
+ 판정 CORRECT
+100%|██████████| 50/50 [01:40<00:00,  2.00s/it]
+ 질문 Based on State of the Union Address 2023: What are the main type of jobs that Biden created during COVID? 
+ 정답 The speech highlights the creation of 800,000 good-paying manufacturing jobs, which experienced the fastest growth in 40 years. 
+ 답변 Manufacturing jobs. 
+ 판정 CORRECT
+{'avg_em': 0.02, 'avg_f1': 0.32255514839964006, 'avg_acc': 0.96, 'avg_wall_time': 0.44134127140045165, 'avg_total_tokens': 58.84, 'avg_total_cost': 0.0002942, 'avg_steps': 1.0, 'avg_token_cost': 0.0002942, 'avg_tool_cost': 0.0}

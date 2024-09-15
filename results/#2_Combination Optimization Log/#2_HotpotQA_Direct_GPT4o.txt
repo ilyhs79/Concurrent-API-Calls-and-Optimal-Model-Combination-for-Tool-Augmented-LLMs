@@ -1,0 +1,1709 @@
+WARNING:datasets.builder:Found cached dataset hotpot_qa (/content/drive/MyDrive/Colab Notebooks/MyPaper/ReWOO/data/hotpot_qa/hotpot_qa/fullwiki/1.0.0/133b9501f892e5193babbad937bee3b4899deb4691ef4d791e6ac0111c875bb5)
+100%
+3/3 [00:00<00:00, 8.41it/s]
+
+******************* Start Evaluation *******************
+
+  0%|          | 0/100 [00:00<?, ?it/s]사용모델 :  gpt-4o 
+
+/usr/local/lib/python3.10/dist-packages/langchain_core/_api/deprecation.py:141: LangChainDeprecationWarning: The class `OpenAI` was deprecated in LangChain 0.0.10 and will be removed in 0.3.0. An updated version of the class exists in the langchain-openai package and should be used instead. To use it run `pip install -U langchain-openai` and import as `from langchain_openai import OpenAI`.
+  warn_deprecated(
+
+ 질문 Noble is a 2014 film written and directed by Stephen Bradley about the true life story of Christina Noble, a children's rights campaigner, charity worker and writer, it stars Sarah Greene, an Irish actress and singer, best known for portraying Helen McCormick in the West End and Broadway productions of what? 
+ 정답 The Cripple of Inishmaan 
+ 답변 The Cripple of Inishmaan. 
+ 판정 CORRECT
+
+ 질문 Noble is a 2014 film written and directed by Stephen Bradley about the true life story of Christina Noble, a children's rights campaigner, charity worker and writer, it stars Sarah Greene, an Irish actress and singer, best known for portraying Helen McCormick in the West End and Broadway productions of what? 
+ 정답 The Cripple of Inishmaan 
+ 답변 The Cripple of Inishmaan. 
+ 판정 CORRECT
+  1%|          | 1/100 [00:02<03:45,  2.28s/it]
+ 질문 Noble is a 2014 film written and directed by Stephen Bradley about the true life story of Christina Noble, a children's rights campaigner, charity worker and writer, it stars Sarah Greene, an Irish actress and singer, best known for portraying Helen McCormick in the West End and Broadway productions of what? 
+ 정답 The Cripple of Inishmaan 
+ 답변 The Cripple of Inishmaan. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Who was the English clergyman and Archbishop of Trier Otto von Ziegenhain that led the Battle of Tachov? 
+ 정답 Henry Beaufort 
+ 답변 Otto von Ziegenhain was not an English clergyman. He was the Archbishop of Trier who led the Battle of Tachov. 
+ 판정 INCORRECT
+
+ 질문 Who was the English clergyman and Archbishop of Trier Otto von Ziegenhain that led the Battle of Tachov? 
+ 정답 Henry Beaufort 
+ 답변 Otto von Ziegenhain was not an English clergyman. He was the Archbishop of Trier who led the Battle of Tachov. 
+ 판정 INCORRECT
+  2%|▏         | 2/100 [00:04<03:45,  2.30s/it]
+ 질문 Who was the English clergyman and Archbishop of Trier Otto von Ziegenhain that led the Battle of Tachov? 
+ 정답 Henry Beaufort 
+ 답변 Otto von Ziegenhain was not an English clergyman. He was the Archbishop of Trier who led the Battle of Tachov. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which fictional character in the Harry Potter film was played by Robbie Coltrane?  
+ 정답 Rubeus Hagrid 
+ 답변 Rubeus Hagrid. 
+ 판정 CORRECT
+
+ 질문 Which fictional character in the Harry Potter film was played by Robbie Coltrane?  
+ 정답 Rubeus Hagrid 
+ 답변 Rubeus Hagrid. 
+ 판정 CORRECT
+  3%|▎         | 3/100 [00:06<03:28,  2.15s/it]
+ 질문 Which fictional character in the Harry Potter film was played by Robbie Coltrane?  
+ 정답 Rubeus Hagrid 
+ 답변 Rubeus Hagrid. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What Classification is the album by UK band Seccond Person, and a musical genre that originated in the early 1990s in the United Kingdom, especially Bristol? 
+ 정답 Trip hop 
+ 답변 Trip hop 
+ 판정 CORRECT
+
+ 질문 What Classification is the album by UK band Seccond Person, and a musical genre that originated in the early 1990s in the United Kingdom, especially Bristol? 
+ 정답 Trip hop 
+ 답변 Trip hop 
+ 판정 CORRECT
+  4%|▍         | 4/100 [00:08<03:20,  2.09s/it]
+ 질문 What Classification is the album by UK band Seccond Person, and a musical genre that originated in the early 1990s in the United Kingdom, especially Bristol? 
+ 정답 Trip hop 
+ 답변 Trip hop 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What actor from The Imitation Game also starred in "Revolver", "RocknRolla" and "Sherlock Holmes"? 
+ 정답 Mark Strong 
+ 답변 Mark Strong. 
+ 판정 CORRECT
+
+ 질문 What actor from The Imitation Game also starred in "Revolver", "RocknRolla" and "Sherlock Holmes"? 
+ 정답 Mark Strong 
+ 답변 Mark Strong. 
+ 판정 CORRECT
+  5%|▌         | 5/100 [00:11<03:32,  2.24s/it]
+ 질문 What actor from The Imitation Game also starred in "Revolver", "RocknRolla" and "Sherlock Holmes"? 
+ 정답 Mark Strong 
+ 답변 Mark Strong. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 This 2006 Iowa Hawkeyes football coach played for University of Connecticut in 1976 as a linebacker? 
+ 정답 Kirk Ferentz 
+ 답변 Kirk Ferentz. 
+ 판정 CORRECT
+
+ 질문 This 2006 Iowa Hawkeyes football coach played for University of Connecticut in 1976 as a linebacker? 
+ 정답 Kirk Ferentz 
+ 답변 Kirk Ferentz. 
+ 판정 CORRECT
+  6%|▌         | 6/100 [00:12<03:20,  2.13s/it]
+ 질문 This 2006 Iowa Hawkeyes football coach played for University of Connecticut in 1976 as a linebacker? 
+ 정답 Kirk Ferentz 
+ 답변 Kirk Ferentz. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Ikivo Animator integrates with a software application developed by which company? 
+ 정답 Adobe Systems 
+ 답변 Ikivo Animator integrates with software developed by Adobe Systems. 
+ 판정 CORRECT
+
+ 질문 Ikivo Animator integrates with a software application developed by which company? 
+ 정답 Adobe Systems 
+ 답변 Ikivo Animator integrates with software developed by Adobe Systems. 
+ 판정 CORRECT
+  7%|▋         | 7/100 [00:15<03:44,  2.42s/it]
+ 질문 Ikivo Animator integrates with a software application developed by which company? 
+ 정답 Adobe Systems 
+ 답변 Ikivo Animator integrates with software developed by Adobe Systems. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What American actress born in 1912 did the violin master known for his sweet tone and gemütlich style compose a work for? 
+ 정답 Marta Eggerth 
+ 답변 Katharine Hepburn. 
+ 판정 INCORRECT
+
+ 질문 What American actress born in 1912 did the violin master known for his sweet tone and gemütlich style compose a work for? 
+ 정답 Marta Eggerth 
+ 답변 Katharine Hepburn. 
+ 판정 INCORRECT
+  8%|▊         | 8/100 [00:18<03:35,  2.35s/it]
+ 질문 What American actress born in 1912 did the violin master known for his sweet tone and gemütlich style compose a work for? 
+ 정답 Marta Eggerth 
+ 답변 Katharine Hepburn. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which plant has more species, Teucrium or Atalaya? 
+ 정답 Teucrium 
+ 답변 Teucrium. 
+ 판정 CORRECT
+
+ 질문 Which plant has more species, Teucrium or Atalaya? 
+ 정답 Teucrium 
+ 답변 Teucrium. 
+ 판정 CORRECT
+  9%|▉         | 9/100 [00:20<03:32,  2.33s/it]
+ 질문 Which plant has more species, Teucrium or Atalaya? 
+ 정답 Teucrium 
+ 답변 Teucrium. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 When was the British-American journalist and editor born Who was the editor in chief of The September? 
+ 정답 3 November 1949 
+ 답변 The British-American journalist and editor, Harry Evans, was born on June 28, 1928. 
+ 판정 INCORRECT
+
+ 질문 When was the British-American journalist and editor born Who was the editor in chief of The September? 
+ 정답 3 November 1949 
+ 답변 The British-American journalist and editor, Harry Evans, was born on June 28, 1928. 
+ 판정 INCORRECT
+ 10%|█         | 10/100 [00:22<03:22,  2.26s/it]
+ 질문 When was the British-American journalist and editor born Who was the editor in chief of The September? 
+ 정답 3 November 1949 
+ 답변 The British-American journalist and editor, Harry Evans, was born on June 28, 1928. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 The person who presented Mary Queen of Shops television series was appointed by who to lead a review into the future of Britain's high streets? 
+ 정답 David Cameron 
+ 답변 Mary Portas was appointed by David Cameron. 
+ 판정 CORRECT
+
+ 질문 The person who presented Mary Queen of Shops television series was appointed by who to lead a review into the future of Britain's high streets? 
+ 정답 David Cameron 
+ 답변 Mary Portas was appointed by David Cameron. 
+ 판정 CORRECT
+ 11%|█         | 11/100 [00:24<03:09,  2.13s/it]
+ 질문 The person who presented Mary Queen of Shops television series was appointed by who to lead a review into the future of Britain's high streets? 
+ 정답 David Cameron 
+ 답변 Mary Portas was appointed by David Cameron. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 WDOM is currently owned by what private, coeducational, Roman Catholic university? 
+ 정답 Providence College 
+ 답변 Providence College 
+ 판정 CORRECT
+
+ 질문 WDOM is currently owned by what private, coeducational, Roman Catholic university? 
+ 정답 Providence College 
+ 답변 Providence College 
+ 판정 CORRECT
+ 12%|█▏        | 12/100 [00:26<03:01,  2.07s/it]
+ 질문 WDOM is currently owned by what private, coeducational, Roman Catholic university? 
+ 정답 Providence College 
+ 답변 Providence College 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 For what group did Maurice Gibb play a variety of instruments and co-wrote the song "Stayin' Alive"? 
+ 정답 Bee Gees 
+ 답변 Bee Gees. 
+ 판정 CORRECT
+
+ 질문 For what group did Maurice Gibb play a variety of instruments and co-wrote the song "Stayin' Alive"? 
+ 정답 Bee Gees 
+ 답변 Bee Gees. 
+ 판정 CORRECT
+ 13%|█▎        | 13/100 [00:29<03:41,  2.54s/it]
+ 질문 For what group did Maurice Gibb play a variety of instruments and co-wrote the song "Stayin' Alive"? 
+ 정답 Bee Gees 
+ 답변 Bee Gees. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which processional racing driver was born on June 13, 1973 and worked alongside Adam Ferrara in an American television series? 
+ 정답 Tanner Foust 
+ 답변 Tanner Foust. 
+ 판정 CORRECT
+
+ 질문 Which processional racing driver was born on June 13, 1973 and worked alongside Adam Ferrara in an American television series? 
+ 정답 Tanner Foust 
+ 답변 Tanner Foust. 
+ 판정 CORRECT
+ 14%|█▍        | 14/100 [00:33<03:53,  2.71s/it]
+ 질문 Which processional racing driver was born on June 13, 1973 and worked alongside Adam Ferrara in an American television series? 
+ 정답 Tanner Foust 
+ 답변 Tanner Foust. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Lost Cause is a song by an artist mostly known for what? 
+ 정답 his musical composition 
+ 답변 Pop music. 
+ 판정 INCORRECT
+
+ 질문 Lost Cause is a song by an artist mostly known for what? 
+ 정답 his musical composition 
+ 답변 Pop music. 
+ 판정 INCORRECT
+ 15%|█▌        | 15/100 [00:34<03:25,  2.42s/it]
+ 질문 Lost Cause is a song by an artist mostly known for what? 
+ 정답 his musical composition 
+ 답변 Pop music. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What song written by American songwriter Johnny Marks, made popular by Burl Ives, is one of the Top 25 most performed holiday songs written by ASCAP members? 
+ 정답 A Holly Jolly Christmas 
+ 답변 "A Holly Jolly Christmas" 
+ 판정 CORRECT
+
+ 질문 What song written by American songwriter Johnny Marks, made popular by Burl Ives, is one of the Top 25 most performed holiday songs written by ASCAP members? 
+ 정답 A Holly Jolly Christmas 
+ 답변 "A Holly Jolly Christmas" 
+ 판정 CORRECT
+ 16%|█▌        | 16/100 [00:37<03:21,  2.40s/it]
+ 질문 What song written by American songwriter Johnny Marks, made popular by Burl Ives, is one of the Top 25 most performed holiday songs written by ASCAP members? 
+ 정답 A Holly Jolly Christmas 
+ 답변 "A Holly Jolly Christmas" 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Don "The Bull" Adams was a bare-knuckle boxer, from Waltham Cross, Hertfordshire, in which UK country, at a planned fight at Holborn Stud Farm on Sunday, 26 October 1975, between himself and Roy “Pretty Boy” Shaw, was an English millionaire, real estate investor, author and businessman from the East End of London who was formerly a criminal and Category A prisoner? 
+ 정답 England 
+ 답변 England. 
+ 판정 CORRECT
+
+ 질문 Don "The Bull" Adams was a bare-knuckle boxer, from Waltham Cross, Hertfordshire, in which UK country, at a planned fight at Holborn Stud Farm on Sunday, 26 October 1975, between himself and Roy “Pretty Boy” Shaw, was an English millionaire, real estate investor, author and businessman from the East End of London who was formerly a criminal and Category A prisoner? 
+ 정답 England 
+ 답변 England. 
+ 판정 CORRECT
+ 17%|█▋        | 17/100 [00:39<03:06,  2.24s/it]
+ 질문 Don "The Bull" Adams was a bare-knuckle boxer, from Waltham Cross, Hertfordshire, in which UK country, at a planned fight at Holborn Stud Farm on Sunday, 26 October 1975, between himself and Roy “Pretty Boy” Shaw, was an English millionaire, real estate investor, author and businessman from the East End of London who was formerly a criminal and Category A prisoner? 
+ 정답 England 
+ 답변 England. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which American rock band is from New Mexico Circa Survive or The Shins? 
+ 정답 The Shins 
+ 답변 The Shins. 
+ 판정 CORRECT
+
+ 질문 Which American rock band is from New Mexico Circa Survive or The Shins? 
+ 정답 The Shins 
+ 답변 The Shins. 
+ 판정 CORRECT
+ 18%|█▊        | 18/100 [00:55<08:59,  6.58s/it]
+ 질문 Which American rock band is from New Mexico Circa Survive or The Shins? 
+ 정답 The Shins 
+ 답변 The Shins. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Who is the former quarterback and presenter of the halftime report during ESPN College Football Primetime? 
+ 정답 Danny Kanell 
+ 답변 Jesse Palmer. 
+ 판정 INCORRECT
+
+ 질문 Who is the former quarterback and presenter of the halftime report during ESPN College Football Primetime? 
+ 정답 Danny Kanell 
+ 답변 Jesse Palmer. 
+ 판정 INCORRECT
+ 19%|█▉        | 19/100 [00:57<07:04,  5.24s/it]
+ 질문 Who is the former quarterback and presenter of the halftime report during ESPN College Football Primetime? 
+ 정답 Danny Kanell 
+ 답변 Jesse Palmer. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What film star from the Twilight Saga is from England? 
+ 정답 Robert Pattinson 
+ 답변 Robert Pattinson. 
+ 판정 CORRECT
+
+ 질문 What film star from the Twilight Saga is from England? 
+ 정답 Robert Pattinson 
+ 답변 Robert Pattinson. 
+ 판정 CORRECT
+ 20%|██        | 20/100 [00:59<05:44,  4.31s/it]
+ 질문 What film star from the Twilight Saga is from England? 
+ 정답 Robert Pattinson 
+ 답변 Robert Pattinson. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 In what 2008 film directed by Tom Vaughan does Cameron Diaz appear?  
+ 정답 What Happens in Vegas 
+ 답변 "What Happens in Vegas" 
+ 판정 CORRECT
+
+ 질문 In what 2008 film directed by Tom Vaughan does Cameron Diaz appear?  
+ 정답 What Happens in Vegas 
+ 답변 "What Happens in Vegas" 
+ 판정 CORRECT
+ 21%|██        | 21/100 [01:02<04:52,  3.71s/it]
+ 질문 In what 2008 film directed by Tom Vaughan does Cameron Diaz appear?  
+ 정답 What Happens in Vegas 
+ 답변 "What Happens in Vegas" 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Are both Charles Band and M. Night Shyamalan known for making films with a comedic flair? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+
+ 질문 Are both Charles Band and M. Night Shyamalan known for making films with a comedic flair? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+ 22%|██▏       | 22/100 [01:04<04:09,  3.20s/it]
+ 질문 Are both Charles Band and M. Night Shyamalan known for making films with a comedic flair? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which Louisiana Governor presiding over speaker Ralph Norman Bauer was a singer and songwriter? 
+ 정답 Jimmie Davis 
+ 답변 Jimmie Davis. 
+ 판정 CORRECT
+
+ 질문 Which Louisiana Governor presiding over speaker Ralph Norman Bauer was a singer and songwriter? 
+ 정답 Jimmie Davis 
+ 답변 Jimmie Davis. 
+ 판정 CORRECT
+ 23%|██▎       | 23/100 [01:06<03:42,  2.89s/it]
+ 질문 Which Louisiana Governor presiding over speaker Ralph Norman Bauer was a singer and songwriter? 
+ 정답 Jimmie Davis 
+ 답변 Jimmie Davis. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 When did the team formerly known as the Renault team design the Lotus E20? 
+ 정답 2012 Formula One season 
+ 답변 2012 
+ 판정 CORRECT
+
+ 질문 When did the team formerly known as the Renault team design the Lotus E20? 
+ 정답 2012 Formula One season 
+ 답변 2012 
+ 판정 CORRECT
+ 24%|██▍       | 24/100 [01:08<03:19,  2.62s/it]
+ 질문 When did the team formerly known as the Renault team design the Lotus E20? 
+ 정답 2012 Formula One season 
+ 답변 2012 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What is the name of an Afghanistan Sarbani tribe? 
+ 정답 Alakozai 
+ 답변 Durrani 
+ 판정 INCORRECT
+
+ 질문 What is the name of an Afghanistan Sarbani tribe? 
+ 정답 Alakozai 
+ 답변 Durrani 
+ 판정 INCORRECT
+ 25%|██▌       | 25/100 [01:10<03:00,  2.41s/it]
+ 질문 What is the name of an Afghanistan Sarbani tribe? 
+ 정답 Alakozai 
+ 답변 Durrani 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Are both Pecom 32 and Applix 1616 based in Australia? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+
+ 질문 Are both Pecom 32 and Applix 1616 based in Australia? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+ 26%|██▌       | 26/100 [01:12<02:50,  2.30s/it]
+ 질문 Are both Pecom 32 and Applix 1616 based in Australia? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 The Forerunner was a monthly magazine produced by Charlotte Perkins Gilman (best known as the writer of "The Yellow Wallpaper"), a 6,000-word short story by American writer Charlotte Perkins Gilman, first published in The New England Magazine, in what year? 
+ 정답 1892 
+ 답변 1892 
+ 판정 CORRECT
+
+ 질문 The Forerunner was a monthly magazine produced by Charlotte Perkins Gilman (best known as the writer of "The Yellow Wallpaper"), a 6,000-word short story by American writer Charlotte Perkins Gilman, first published in The New England Magazine, in what year? 
+ 정답 1892 
+ 답변 1892 
+ 판정 CORRECT
+ 27%|██▋       | 27/100 [01:14<02:36,  2.15s/it]
+ 질문 The Forerunner was a monthly magazine produced by Charlotte Perkins Gilman (best known as the writer of "The Yellow Wallpaper"), a 6,000-word short story by American writer Charlotte Perkins Gilman, first published in The New England Magazine, in what year? 
+ 정답 1892 
+ 답변 1892 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What timezone do the United States Minor Outlying Islands observe? 
+ 정답 Samoa Time 
+ 답변 UTC−12:00 to UTC+12:00, depending on the specific island. 
+ 판정 CORRECT
+
+ 질문 What timezone do the United States Minor Outlying Islands observe? 
+ 정답 Samoa Time 
+ 답변 UTC−12:00 to UTC+12:00, depending on the specific island. 
+ 판정 CORRECT
+ 28%|██▊       | 28/100 [01:16<02:31,  2.10s/it]
+ 질문 What timezone do the United States Minor Outlying Islands observe? 
+ 정답 Samoa Time 
+ 답변 UTC−12:00 to UTC+12:00, depending on the specific island. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which Australian politician founded CARE Australia  
+ 정답 John Malcolm Fraser 
+ 답변 Malcolm Fraser 
+ 판정 CORRECT
+
+ 질문 Which Australian politician founded CARE Australia  
+ 정답 John Malcolm Fraser 
+ 답변 Malcolm Fraser 
+ 판정 CORRECT
+ 29%|██▉       | 29/100 [01:18<02:24,  2.04s/it]
+ 질문 Which Australian politician founded CARE Australia  
+ 정답 John Malcolm Fraser 
+ 답변 Malcolm Fraser 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Stefano Nava was a backup for which former right-back who now is the assistant coach for the Ukrainian national team? 
+ 정답 Mauro Tassotti 
+ 답변 Stefano Nava was a backup for Mauro Tassotti. 
+ 판정 CORRECT
+
+ 질문 Stefano Nava was a backup for which former right-back who now is the assistant coach for the Ukrainian national team? 
+ 정답 Mauro Tassotti 
+ 답변 Stefano Nava was a backup for Mauro Tassotti. 
+ 판정 CORRECT
+ 30%|███       | 30/100 [01:20<02:32,  2.18s/it]
+ 질문 Stefano Nava was a backup for which former right-back who now is the assistant coach for the Ukrainian national team? 
+ 정답 Mauro Tassotti 
+ 답변 Stefano Nava was a backup for Mauro Tassotti. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 The 1994–95 U.C. Sampdoria season included a midfielder who was of what nationality? 
+ 정답 English 
+ 답변 Italian. 
+ 판정 INCORRECT
+
+ 질문 The 1994–95 U.C. Sampdoria season included a midfielder who was of what nationality? 
+ 정답 English 
+ 답변 Italian. 
+ 판정 INCORRECT
+ 31%|███       | 31/100 [01:22<02:23,  2.08s/it]
+ 질문 The 1994–95 U.C. Sampdoria season included a midfielder who was of what nationality? 
+ 정답 English 
+ 답변 Italian. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Landon T. Clay (born Landon Thomas Clay) was an American businessman and founder of the Clay Mathematics Institute (CMI),  a private, non-profit foundation, based in Peterborough, New Hampshire, in which country? 
+ 정답 United States 
+ 답변 United States 
+ 판정 CORRECT
+
+ 질문 Landon T. Clay (born Landon Thomas Clay) was an American businessman and founder of the Clay Mathematics Institute (CMI),  a private, non-profit foundation, based in Peterborough, New Hampshire, in which country? 
+ 정답 United States 
+ 답변 United States 
+ 판정 CORRECT
+ 32%|███▏      | 32/100 [01:24<02:20,  2.06s/it]
+ 질문 Landon T. Clay (born Landon Thomas Clay) was an American businessman and founder of the Clay Mathematics Institute (CMI),  a private, non-profit foundation, based in Peterborough, New Hampshire, in which country? 
+ 정답 United States 
+ 답변 United States 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Wonder World is the second studio album by a pop group formed by what producer? 
+ 정답 Park Jin-young 
+ 답변 J. Y. Park 
+ 판정 CORRECT
+
+ 질문 Wonder World is the second studio album by a pop group formed by what producer? 
+ 정답 Park Jin-young 
+ 답변 J. Y. Park 
+ 판정 CORRECT
+ 33%|███▎      | 33/100 [01:26<02:24,  2.16s/it]
+ 질문 Wonder World is the second studio album by a pop group formed by what producer? 
+ 정답 Park Jin-young 
+ 답변 J. Y. Park 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Pibb Xtra and Pet, Inc., are made in which country? 
+ 정답 United States 
+ 답변 United States. 
+ 판정 CORRECT
+
+ 질문 Pibb Xtra and Pet, Inc., are made in which country? 
+ 정답 United States 
+ 답변 United States. 
+ 판정 CORRECT
+ 34%|███▍      | 34/100 [01:28<02:15,  2.05s/it]
+ 질문 Pibb Xtra and Pet, Inc., are made in which country? 
+ 정답 United States 
+ 답변 United States. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Jack Reynolds won his first super bowl with the niners  in which season ? 
+ 정답 the 1981 season 
+ 답변 1981 
+ 판정 CORRECT
+
+ 질문 Jack Reynolds won his first super bowl with the niners  in which season ? 
+ 정답 the 1981 season 
+ 답변 1981 
+ 판정 CORRECT
+ 35%|███▌      | 35/100 [01:30<02:09,  1.99s/it]
+ 질문 Jack Reynolds won his first super bowl with the niners  in which season ? 
+ 정답 the 1981 season 
+ 답변 1981 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Kevin Brooks was born in a state bordered by what ocean? 
+ 정답 Atlantic Ocean 
+ 답변 Atlantic Ocean 
+ 판정 CORRECT
+
+ 질문 Kevin Brooks was born in a state bordered by what ocean? 
+ 정답 Atlantic Ocean 
+ 답변 Atlantic Ocean 
+ 판정 CORRECT
+ 36%|███▌      | 36/100 [01:32<02:07,  1.99s/it]
+ 질문 Kevin Brooks was born in a state bordered by what ocean? 
+ 정답 Atlantic Ocean 
+ 답변 Atlantic Ocean 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What is the middle name of the leader of Quantrill's Raiders? 
+ 정답 Clarke 
+ 답변 Scott 
+ 판정 INCORRECT
+
+ 질문 What is the middle name of the leader of Quantrill's Raiders? 
+ 정답 Clarke 
+ 답변 Scott 
+ 판정 INCORRECT
+ 37%|███▋      | 37/100 [01:34<02:01,  1.93s/it]
+ 질문 What is the middle name of the leader of Quantrill's Raiders? 
+ 정답 Clarke 
+ 답변 Scott 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What profession does Adrian Brunel and Richard Oswald have in common? 
+ 정답 director 
+ 답변 Film director. 
+ 판정 CORRECT
+
+ 질문 What profession does Adrian Brunel and Richard Oswald have in common? 
+ 정답 director 
+ 답변 Film director. 
+ 판정 CORRECT
+ 38%|███▊      | 38/100 [01:36<01:59,  1.92s/it]
+ 질문 What profession does Adrian Brunel and Richard Oswald have in common? 
+ 정답 director 
+ 답변 Film director. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Frank Lucien Hale once accompanied a famous American aviator nicknamed Slim, Lucky Lindy, and The Lone Eagle on what? 
+ 정답 a transcontinental flight 
+ 답변 A flight. 
+ 판정 CORRECT
+
+ 질문 Frank Lucien Hale once accompanied a famous American aviator nicknamed Slim, Lucky Lindy, and The Lone Eagle on what? 
+ 정답 a transcontinental flight 
+ 답변 A flight. 
+ 판정 CORRECT
+ 39%|███▉      | 39/100 [01:38<02:06,  2.07s/it]
+ 질문 Frank Lucien Hale once accompanied a famous American aviator nicknamed Slim, Lucky Lindy, and The Lone Eagle on what? 
+ 정답 a transcontinental flight 
+ 답변 A flight. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Singwango Secondary School had a sister school in a census-designated place in the town of North Hempstead in what county of New York? 
+ 정답 Nassau County 
+ 답변 Nassau County. 
+ 판정 CORRECT
+
+ 질문 Singwango Secondary School had a sister school in a census-designated place in the town of North Hempstead in what county of New York? 
+ 정답 Nassau County 
+ 답변 Nassau County. 
+ 판정 CORRECT
+ 40%|████      | 40/100 [01:40<02:03,  2.06s/it]
+ 질문 Singwango Secondary School had a sister school in a census-designated place in the town of North Hempstead in what county of New York? 
+ 정답 Nassau County 
+ 답변 Nassau County. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which university is a public research university, Ashesi University or National Autonomous University of Mexico? 
+ 정답 National Autonomous University of Mexico 
+ 답변 National Autonomous University of Mexico. 
+ 판정 CORRECT
+
+ 질문 Which university is a public research university, Ashesi University or National Autonomous University of Mexico? 
+ 정답 National Autonomous University of Mexico 
+ 답변 National Autonomous University of Mexico. 
+ 판정 CORRECT
+ 41%|████      | 41/100 [01:42<01:57,  1.99s/it]
+ 질문 Which university is a public research university, Ashesi University or National Autonomous University of Mexico? 
+ 정답 National Autonomous University of Mexico 
+ 답변 National Autonomous University of Mexico. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What Norwegian band has played at Sparebanken Sør Arena? 
+ 정답 A-ha 
+ 답변 A-ha. 
+ 판정 CORRECT
+
+ 질문 What Norwegian band has played at Sparebanken Sør Arena? 
+ 정답 A-ha 
+ 답변 A-ha. 
+ 판정 CORRECT
+ 42%|████▏     | 42/100 [01:44<01:57,  2.03s/it]
+ 질문 What Norwegian band has played at Sparebanken Sør Arena? 
+ 정답 A-ha 
+ 답변 A-ha. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Are both Thomas Reiter and Sigmund Jähn astronauts? 
+ 정답 no 
+ 답변 Yes. 
+ 판정 INCORRECT
+
+ 질문 Are both Thomas Reiter and Sigmund Jähn astronauts? 
+ 정답 no 
+ 답변 Yes. 
+ 판정 INCORRECT
+ 43%|████▎     | 43/100 [01:46<01:56,  2.05s/it]
+ 질문 Are both Thomas Reiter and Sigmund Jähn astronauts? 
+ 정답 no 
+ 답변 Yes. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Where did the helicopter crash take place that killed Vic Morrow? 
+ 정답 Valencia, Santa Clarita, California 
+ 답변 Indian Dunes, California. 
+ 판정 INCORRECT
+
+ 질문 Where did the helicopter crash take place that killed Vic Morrow? 
+ 정답 Valencia, Santa Clarita, California 
+ 답변 Indian Dunes, California. 
+ 판정 INCORRECT
+ 44%|████▍     | 44/100 [03:50<36:02, 38.61s/it]
+ 질문 Where did the helicopter crash take place that killed Vic Morrow? 
+ 정답 Valencia, Santa Clarita, California 
+ 답변 Indian Dunes, California. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Clarence "Keith" Marquis Mitchell, is a former American football linebacker in which rganization,who played for the Houston Texans, a professional American football team based in Houston, Texas? 
+ 정답 National Football League 
+ 답변 NFL 
+ 판정 CORRECT
+
+ 질문 Clarence "Keith" Marquis Mitchell, is a former American football linebacker in which rganization,who played for the Houston Texans, a professional American football team based in Houston, Texas? 
+ 정답 National Football League 
+ 답변 NFL 
+ 판정 CORRECT
+ 45%|████▌     | 45/100 [03:54<25:47, 28.14s/it]
+ 질문 Clarence "Keith" Marquis Mitchell, is a former American football linebacker in which rganization,who played for the Houston Texans, a professional American football team based in Houston, Texas? 
+ 정답 National Football League 
+ 답변 NFL 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문  1889–90 Burnley F.C. season had success in what football knockout tournament involving teams from Lancashire, England 
+ 정답 Lancashire County Football Association Cup 
+ 답변 Lancashire Senior Cup 
+ 판정 CORRECT
+
+ 질문  1889–90 Burnley F.C. season had success in what football knockout tournament involving teams from Lancashire, England 
+ 정답 Lancashire County Football Association Cup 
+ 답변 Lancashire Senior Cup 
+ 판정 CORRECT
+ 46%|████▌     | 46/100 [03:56<18:13, 20.26s/it]
+ 질문  1889–90 Burnley F.C. season had success in what football knockout tournament involving teams from Lancashire, England 
+ 정답 Lancashire County Football Association Cup 
+ 답변 Lancashire Senior Cup 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Last in Line reunited in 2010 with the guitarist who was of what nationality? 
+ 정답 Northern Irish 
+ 답변 American. 
+ 판정 INCORRECT
+
+ 질문 Last in Line reunited in 2010 with the guitarist who was of what nationality? 
+ 정답 Northern Irish 
+ 답변 American. 
+ 판정 INCORRECT
+ 47%|████▋     | 47/100 [03:58<13:07, 14.85s/it]
+ 질문 Last in Line reunited in 2010 with the guitarist who was of what nationality? 
+ 정답 Northern Irish 
+ 답변 American. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Who owns the news television channel who Andrew Ehinger is a reporter for? 
+ 정답 Altice USA 
+ 답변 The Walt Disney Company. 
+ 판정 INCORRECT
+
+ 질문 Who owns the news television channel who Andrew Ehinger is a reporter for? 
+ 정답 Altice USA 
+ 답변 The Walt Disney Company. 
+ 판정 INCORRECT
+ 48%|████▊     | 48/100 [04:00<09:33, 11.03s/it]
+ 질문 Who owns the news television channel who Andrew Ehinger is a reporter for? 
+ 정답 Altice USA 
+ 답변 The Walt Disney Company. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What distinctive surface is the historic Merton Street, that runs parallel to High Street in the southeastern university city of Oxford, England? 
+ 정답 cobbled 
+ 답변 Cobblestone. 
+ 판정 CORRECT
+
+ 질문 What distinctive surface is the historic Merton Street, that runs parallel to High Street in the southeastern university city of Oxford, England? 
+ 정답 cobbled 
+ 답변 Cobblestone. 
+ 판정 CORRECT
+ 49%|████▉     | 49/100 [04:02<07:02,  8.28s/it]
+ 질문 What distinctive surface is the historic Merton Street, that runs parallel to High Street in the southeastern university city of Oxford, England? 
+ 정답 cobbled 
+ 답변 Cobblestone. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 I'll Sail My Ship Alone has been recorded by which American country music singer? 
+ 정답 Mickey Leroy Gilley 
+ 답변 Mickey Gilley. 
+ 판정 CORRECT
+
+ 질문 I'll Sail My Ship Alone has been recorded by which American country music singer? 
+ 정답 Mickey Leroy Gilley 
+ 답변 Mickey Gilley. 
+ 판정 CORRECT
+ 50%|█████     | 50/100 [04:04<05:18,  6.38s/it]
+ 질문 I'll Sail My Ship Alone has been recorded by which American country music singer? 
+ 정답 Mickey Leroy Gilley 
+ 답변 Mickey Gilley. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 When was the American rapper from St. Louis, Missouri born who has guest appeared in New Jack City, Pt. II and who's one of the album is "Country Grammar"? 
+ 정답 November 2, 1974 
+ 답변 November 2, 1974. 
+ 판정 CORRECT
+
+ 질문 When was the American rapper from St. Louis, Missouri born who has guest appeared in New Jack City, Pt. II and who's one of the album is "Country Grammar"? 
+ 정답 November 2, 1974 
+ 답변 November 2, 1974. 
+ 판정 CORRECT
+ 51%|█████     | 51/100 [04:06<04:10,  5.10s/it]
+ 질문 When was the American rapper from St. Louis, Missouri born who has guest appeared in New Jack City, Pt. II and who's one of the album is "Country Grammar"? 
+ 정답 November 2, 1974 
+ 답변 November 2, 1974. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Although best known for playing Jesus, Brian Deacon also appeared in this 1972 British film by Michael Apted? 
+ 정답 The Triple Echo 
+ 답변 The Triple Echo 
+ 판정 CORRECT
+
+ 질문 Although best known for playing Jesus, Brian Deacon also appeared in this 1972 British film by Michael Apted? 
+ 정답 The Triple Echo 
+ 답변 The Triple Echo 
+ 판정 CORRECT
+ 52%|█████▏    | 52/100 [04:08<03:22,  4.21s/it]
+ 질문 Although best known for playing Jesus, Brian Deacon also appeared in this 1972 British film by Michael Apted? 
+ 정답 The Triple Echo 
+ 답변 The Triple Echo 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문  Jagdgeschwader 52 was an aircraft used by the flying ace nicknamed what? 
+ 정답 Bubi 
+ 답변 Karaya One 
+ 판정 INCORRECT
+
+ 질문  Jagdgeschwader 52 was an aircraft used by the flying ace nicknamed what? 
+ 정답 Bubi 
+ 답변 Karaya One 
+ 판정 INCORRECT
+ 53%|█████▎    | 53/100 [04:10<02:45,  3.53s/it]
+ 질문  Jagdgeschwader 52 was an aircraft used by the flying ace nicknamed what? 
+ 정답 Bubi 
+ 답변 Karaya One 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Nexus and Girlfriends are both what? 
+ 정답 magazine 
+ 답변 Magazines. 
+ 판정 CORRECT
+
+ 질문 Nexus and Girlfriends are both what? 
+ 정답 magazine 
+ 답변 Magazines. 
+ 판정 CORRECT
+ 54%|█████▍    | 54/100 [04:12<02:22,  3.10s/it]
+ 질문 Nexus and Girlfriends are both what? 
+ 정답 magazine 
+ 답변 Magazines. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What FA Trophy final was the 44th final where Grimsby Town was beaten? 
+ 정답 2013 FA Trophy Final 
+ 답변 1998 FA Trophy Final. 
+ 판정 INCORRECT
+
+ 질문 What FA Trophy final was the 44th final where Grimsby Town was beaten? 
+ 정답 2013 FA Trophy Final 
+ 답변 1998 FA Trophy Final. 
+ 판정 INCORRECT
+ 55%|█████▌    | 55/100 [04:14<02:05,  2.79s/it]
+ 질문 What FA Trophy final was the 44th final where Grimsby Town was beaten? 
+ 정답 2013 FA Trophy Final 
+ 답변 1998 FA Trophy Final. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Rear Admiral (UH) Raymond A. Spicer, United States Navy, is the former director of the White House Military Office and reported as Deputy Assistant to the President and Director, White House Military Office in March 2007, and was succeeded by which American politician and member of the Democratic Party who served as the Director of the White House Military Office from January to May 2009, as the 17th United States Secretary of the Army? 
+ 정답 Louis Caldera 
+ 답변 John McHugh. 
+ 판정 INCORRECT
+
+ 질문 Rear Admiral (UH) Raymond A. Spicer, United States Navy, is the former director of the White House Military Office and reported as Deputy Assistant to the President and Director, White House Military Office in March 2007, and was succeeded by which American politician and member of the Democratic Party who served as the Director of the White House Military Office from January to May 2009, as the 17th United States Secretary of the Army? 
+ 정답 Louis Caldera 
+ 답변 John McHugh. 
+ 판정 INCORRECT
+ 56%|█████▌    | 56/100 [04:17<02:02,  2.79s/it]
+ 질문 Rear Admiral (UH) Raymond A. Spicer, United States Navy, is the former director of the White House Military Office and reported as Deputy Assistant to the President and Director, White House Military Office in March 2007, and was succeeded by which American politician and member of the Democratic Party who served as the Director of the White House Military Office from January to May 2009, as the 17th United States Secretary of the Army? 
+ 정답 Louis Caldera 
+ 답변 John McHugh. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Who directed the 2010 film in which Otto Jespersen starred ?  
+ 정답 André Øvredal, 
+ 답변 André Øvredal. 
+ 판정 CORRECT
+
+ 질문 Who directed the 2010 film in which Otto Jespersen starred ?  
+ 정답 André Øvredal, 
+ 답변 André Øvredal. 
+ 판정 CORRECT
+ 57%|█████▋    | 57/100 [04:19<01:46,  2.49s/it]
+ 질문 Who directed the 2010 film in which Otto Jespersen starred ?  
+ 정답 André Øvredal, 
+ 답변 André Øvredal. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Bernadette Flynn was a dancer in the style that took its influence from what French style? 
+ 정답 quadrilles 
+ 답변 Baroque. 
+ 판정 INCORRECT
+
+ 질문 Bernadette Flynn was a dancer in the style that took its influence from what French style? 
+ 정답 quadrilles 
+ 답변 Baroque. 
+ 판정 INCORRECT
+ 58%|█████▊    | 58/100 [04:21<01:38,  2.35s/it]
+ 질문 Bernadette Flynn was a dancer in the style that took its influence from what French style? 
+ 정답 quadrilles 
+ 답변 Baroque. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Were Andy Cairns and Richie Furay both members of the same band? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+
+ 질문 Were Andy Cairns and Richie Furay both members of the same band? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+ 59%|█████▉    | 59/100 [04:24<01:42,  2.51s/it]
+ 질문 Were Andy Cairns and Richie Furay both members of the same band? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Are Vincenzo Bellini and Nikolai Rimsky-Korsakov both composers? 
+ 정답 yes 
+ 답변 Yes. 
+ 판정 CORRECT
+
+ 질문 Are Vincenzo Bellini and Nikolai Rimsky-Korsakov both composers? 
+ 정답 yes 
+ 답변 Yes. 
+ 판정 CORRECT
+ 60%|██████    | 60/100 [04:26<01:35,  2.38s/it]
+ 질문 Are Vincenzo Bellini and Nikolai Rimsky-Korsakov both composers? 
+ 정답 yes 
+ 답변 Yes. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What role is the twin of Elaine Thompson most notable for playing in the television series "Casualty"?   
+ 정답 Charlie Fairhead 
+ 답변 Charlie Fairhead. 
+ 판정 CORRECT
+
+ 질문 What role is the twin of Elaine Thompson most notable for playing in the television series "Casualty"?   
+ 정답 Charlie Fairhead 
+ 답변 Charlie Fairhead. 
+ 판정 CORRECT
+ 61%|██████    | 61/100 [04:28<01:26,  2.22s/it]
+ 질문 What role is the twin of Elaine Thompson most notable for playing in the television series "Casualty"?   
+ 정답 Charlie Fairhead 
+ 답변 Charlie Fairhead. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Who costarred as John Carroll Lynch's brother in his most recent film? 
+ 정답 Nick Offerman 
+ 답변 Matt Bomer. 
+ 판정 INCORRECT
+
+ 질문 Who costarred as John Carroll Lynch's brother in his most recent film? 
+ 정답 Nick Offerman 
+ 답변 Matt Bomer. 
+ 판정 INCORRECT
+ 62%|██████▏   | 62/100 [04:30<01:21,  2.14s/it]
+ 질문 Who costarred as John Carroll Lynch's brother in his most recent film? 
+ 정답 Nick Offerman 
+ 답변 Matt Bomer. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Specials for Cher's Do You Believe? tour were filmed a multi-purpose arena located on what? 
+ 정답 Las Vegas Strip 
+ 답변 The Las Vegas Strip 
+ 판정 CORRECT
+
+ 질문 Specials for Cher's Do You Believe? tour were filmed a multi-purpose arena located on what? 
+ 정답 Las Vegas Strip 
+ 답변 The Las Vegas Strip 
+ 판정 CORRECT
+ 63%|██████▎   | 63/100 [04:32<01:17,  2.10s/it]
+ 질문 Specials for Cher's Do You Believe? tour were filmed a multi-purpose arena located on what? 
+ 정답 Las Vegas Strip 
+ 답변 The Las Vegas Strip 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What percentage share of the worldwide data converter market did the publisher of "Analog Dialogue" have in 2012? 
+ 정답 48.5% 
+ 답변 47.5% 
+ 판정 INCORRECT
+
+ 질문 What percentage share of the worldwide data converter market did the publisher of "Analog Dialogue" have in 2012? 
+ 정답 48.5% 
+ 답변 47.5% 
+ 판정 INCORRECT
+ 64%|██████▍   | 64/100 [04:33<01:13,  2.03s/it]
+ 질문 What percentage share of the worldwide data converter market did the publisher of "Analog Dialogue" have in 2012? 
+ 정답 48.5% 
+ 답변 47.5% 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Jack Zwerner won an event at which Las Vegas-based set of tournaments? 
+ 정답 World Series of Poker 
+ 답변 World Series of Poker. 
+ 판정 CORRECT
+
+ 질문 Jack Zwerner won an event at which Las Vegas-based set of tournaments? 
+ 정답 World Series of Poker 
+ 답변 World Series of Poker. 
+ 판정 CORRECT
+ 65%|██████▌   | 65/100 [04:36<01:12,  2.08s/it]
+ 질문 Jack Zwerner won an event at which Las Vegas-based set of tournaments? 
+ 정답 World Series of Poker 
+ 답변 World Series of Poker. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What Cuban born wrestler competed in Triplemania in Mexico City in 1993? 
+ 정답 Konnan 
+ 답변 Konnan. 
+ 판정 CORRECT
+
+ 질문 What Cuban born wrestler competed in Triplemania in Mexico City in 1993? 
+ 정답 Konnan 
+ 답변 Konnan. 
+ 판정 CORRECT
+ 66%|██████▌   | 66/100 [04:38<01:12,  2.14s/it]
+ 질문 What Cuban born wrestler competed in Triplemania in Mexico City in 1993? 
+ 정답 Konnan 
+ 답변 Konnan. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 The American actress "Patricia Kalember" appeared in this 1990 merican psychological horror film directed by Adrian Lyne, which was produced by whom? 
+ 정답 Alan Marshall 
+ 답변 Alan Marshall. 
+ 판정 CORRECT
+
+ 질문 The American actress "Patricia Kalember" appeared in this 1990 merican psychological horror film directed by Adrian Lyne, which was produced by whom? 
+ 정답 Alan Marshall 
+ 답변 Alan Marshall. 
+ 판정 CORRECT
+ 67%|██████▋   | 67/100 [04:40<01:08,  2.08s/it]
+ 질문 The American actress "Patricia Kalember" appeared in this 1990 merican psychological horror film directed by Adrian Lyne, which was produced by whom? 
+ 정답 Alan Marshall 
+ 답변 Alan Marshall. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Who appeared in both "The Ace in the Hole" and "The Lion and the Horse"? 
+ 정답 Ray Teal 
+ 답변 James Millican. 
+ 판정 INCORRECT
+
+ 질문 Who appeared in both "The Ace in the Hole" and "The Lion and the Horse"? 
+ 정답 Ray Teal 
+ 답변 James Millican. 
+ 판정 INCORRECT
+ 68%|██████▊   | 68/100 [04:42<01:11,  2.22s/it]
+ 질문 Who appeared in both "The Ace in the Hole" and "The Lion and the Horse"? 
+ 정답 Ray Teal 
+ 답변 James Millican. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Bad Kitty was written by what American writer who has authored novels in several genres, including historical romance and suspense thrillers? 
+ 정답 Michele Sharon Jaffe 
+ 답변 Michele Jaffe 
+ 판정 CORRECT
+
+ 질문 Bad Kitty was written by what American writer who has authored novels in several genres, including historical romance and suspense thrillers? 
+ 정답 Michele Sharon Jaffe 
+ 답변 Michele Jaffe 
+ 판정 CORRECT
+ 69%|██████▉   | 69/100 [04:44<01:05,  2.10s/it]
+ 질문 Bad Kitty was written by what American writer who has authored novels in several genres, including historical romance and suspense thrillers? 
+ 정답 Michele Sharon Jaffe 
+ 답변 Michele Jaffe 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which is located in Hengshui, Bei'an or Shenzhou City? 
+ 정답 Shenzhou 
+ 답변 Shenzhou City. 
+ 판정 CORRECT
+
+ 질문 Which is located in Hengshui, Bei'an or Shenzhou City? 
+ 정답 Shenzhou 
+ 답변 Shenzhou City. 
+ 판정 CORRECT
+ 70%|███████   | 70/100 [04:46<01:00,  2.02s/it]
+ 질문 Which is located in Hengshui, Bei'an or Shenzhou City? 
+ 정답 Shenzhou 
+ 답변 Shenzhou City. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Did Scott Pembroke and Eugeniusz Bodo die in the same city? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+
+ 질문 Did Scott Pembroke and Eugeniusz Bodo die in the same city? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+ 71%|███████   | 71/100 [04:49<01:06,  2.29s/it]
+ 질문 Did Scott Pembroke and Eugeniusz Bodo die in the same city? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Dark Sermon has toured with which San Diego-based extreme metal band? 
+ 정답 Cattle Decapitation 
+ 답변 Cattle Decapitation. 
+ 판정 CORRECT
+
+ 질문 Dark Sermon has toured with which San Diego-based extreme metal band? 
+ 정답 Cattle Decapitation 
+ 답변 Cattle Decapitation. 
+ 판정 CORRECT
+ 72%|███████▏  | 72/100 [04:55<01:32,  3.30s/it]
+ 질문 Dark Sermon has toured with which San Diego-based extreme metal band? 
+ 정답 Cattle Decapitation 
+ 답변 Cattle Decapitation. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Gary LeVox and Stuart Murdoch share what profession? 
+ 정답 singer and songwriter 
+ 답변 Singer. 
+ 판정 CORRECT
+
+ 질문 Gary LeVox and Stuart Murdoch share what profession? 
+ 정답 singer and songwriter 
+ 답변 Singer. 
+ 판정 CORRECT
+ 73%|███████▎  | 73/100 [04:56<01:16,  2.84s/it]
+ 질문 Gary LeVox and Stuart Murdoch share what profession? 
+ 정답 singer and songwriter 
+ 답변 Singer. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What town on the banks of Six Mile Water did the Ramble Inn attack happen near? 
+ 정답 Antrim, Northern Ireland 
+ 답변 Antrim. 
+ 판정 CORRECT
+
+ 질문 What town on the banks of Six Mile Water did the Ramble Inn attack happen near? 
+ 정답 Antrim, Northern Ireland 
+ 답변 Antrim. 
+ 판정 CORRECT
+ 74%|███████▍  | 74/100 [04:59<01:12,  2.81s/it]
+ 질문 What town on the banks of Six Mile Water did the Ramble Inn attack happen near? 
+ 정답 Antrim, Northern Ireland 
+ 답변 Antrim. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Are Suizhou and Hejin in the same province? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+
+ 질문 Are Suizhou and Hejin in the same province? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+ 75%|███████▌  | 75/100 [05:01<01:03,  2.53s/it]
+ 질문 Are Suizhou and Hejin in the same province? 
+ 정답 no 
+ 답변 No. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What did Francesco Levato receive his MFA in at the college in Henniker, New Hampshire? 
+ 정답 Poetry 
+ 답변 Poetry. 
+ 판정 CORRECT
+
+ 질문 What did Francesco Levato receive his MFA in at the college in Henniker, New Hampshire? 
+ 정답 Poetry 
+ 답변 Poetry. 
+ 판정 CORRECT
+ 76%|███████▌  | 76/100 [05:03<00:56,  2.37s/it]
+ 질문 What did Francesco Levato receive his MFA in at the college in Henniker, New Hampshire? 
+ 정답 Poetry 
+ 답변 Poetry. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What magazine was established in 1988 by Frank Thomas and Keith White and has been associated with the Dirtbag Left? 
+ 정답 The Baffler 
+ 답변 "Jacobin" magazine. 
+ 판정 INCORRECT
+
+ 질문 What magazine was established in 1988 by Frank Thomas and Keith White and has been associated with the Dirtbag Left? 
+ 정답 The Baffler 
+ 답변 "Jacobin" magazine. 
+ 판정 INCORRECT
+ 77%|███████▋  | 77/100 [05:05<00:53,  2.34s/it]
+ 질문 What magazine was established in 1988 by Frank Thomas and Keith White and has been associated with the Dirtbag Left? 
+ 정답 The Baffler 
+ 답변 "Jacobin" magazine. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 How many seats can the stadium originally planned to host the 2017 NBA All-Star Game hold for NBA games? 
+ 정답 19,077 
+ 답변 17,188 seats. 
+ 판정 INCORRECT
+
+ 질문 How many seats can the stadium originally planned to host the 2017 NBA All-Star Game hold for NBA games? 
+ 정답 19,077 
+ 답변 17,188 seats. 
+ 판정 INCORRECT
+ 78%|███████▊  | 78/100 [05:09<00:58,  2.64s/it]
+ 질문 How many seats can the stadium originally planned to host the 2017 NBA All-Star Game hold for NBA games? 
+ 정답 19,077 
+ 답변 17,188 seats. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 To what city did the 2015 Clemson Tigers football team travel to play in the 2015 Orange Bowl? 
+ 정답 Miami Gardens, Florida 
+ 답변 Miami Gardens, Florida. 
+ 판정 CORRECT
+
+ 질문 To what city did the 2015 Clemson Tigers football team travel to play in the 2015 Orange Bowl? 
+ 정답 Miami Gardens, Florida 
+ 답변 Miami Gardens, Florida. 
+ 판정 CORRECT
+ 79%|███████▉  | 79/100 [05:10<00:50,  2.39s/it]
+ 질문 To what city did the 2015 Clemson Tigers football team travel to play in the 2015 Orange Bowl? 
+ 정답 Miami Gardens, Florida 
+ 답변 Miami Gardens, Florida. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Are Hans Simonsson and Julie Halard-Decugis both from Sweden? 
+ 정답 No. 
+ 답변 No. 
+ 판정 CORRECT
+
+ 질문 Are Hans Simonsson and Julie Halard-Decugis both from Sweden? 
+ 정답 No. 
+ 답변 No. 
+ 판정 CORRECT
+ 80%|████████  | 80/100 [05:12<00:44,  2.21s/it]
+ 질문 Are Hans Simonsson and Julie Halard-Decugis both from Sweden? 
+ 정답 No. 
+ 답변 No. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Heda Margolius Kovály survived a ghetto at the extermination camp built by the Third Reich in which nation's lands? 
+ 정답 Polish 
+ 답변 Poland. 
+ 판정 CORRECT
+
+ 질문 Heda Margolius Kovály survived a ghetto at the extermination camp built by the Third Reich in which nation's lands? 
+ 정답 Polish 
+ 답변 Poland. 
+ 판정 CORRECT
+ 81%|████████  | 81/100 [05:14<00:39,  2.09s/it]
+ 질문 Heda Margolius Kovály survived a ghetto at the extermination camp built by the Third Reich in which nation's lands? 
+ 정답 Polish 
+ 답변 Poland. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What South Korea-based girl group formed by S.M. Entertainment in 2009 was included in the debut EP of South Korean boy group Shinee music video? 
+ 정답 f 
+ 답변 f(x) 
+ 판정 CORRECT
+
+ 질문 What South Korea-based girl group formed by S.M. Entertainment in 2009 was included in the debut EP of South Korean boy group Shinee music video? 
+ 정답 f 
+ 답변 f(x) 
+ 판정 CORRECT
+ 82%|████████▏ | 82/100 [05:16<00:38,  2.15s/it]
+ 질문 What South Korea-based girl group formed by S.M. Entertainment in 2009 was included in the debut EP of South Korean boy group Shinee music video? 
+ 정답 f 
+ 답변 f(x) 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What was the name of one of the buildings that Thomas Lumby worked on? 
+ 정답 Doddington Hall 
+ 답변 Harewood House 
+ 판정 INCORRECT
+
+ 질문 What was the name of one of the buildings that Thomas Lumby worked on? 
+ 정답 Doddington Hall 
+ 답변 Harewood House 
+ 판정 INCORRECT
+ 83%|████████▎ | 83/100 [05:19<00:40,  2.37s/it]
+ 질문 What was the name of one of the buildings that Thomas Lumby worked on? 
+ 정답 Doddington Hall 
+ 답변 Harewood House 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What weekly newsmagazine is published in the capital and largest city of Peru? 
+ 정답 Lima 
+ 답변 Caretas 
+ 판정 INCORRECT
+
+ 질문 What weekly newsmagazine is published in the capital and largest city of Peru? 
+ 정답 Lima 
+ 답변 Caretas 
+ 판정 INCORRECT
+ 84%|████████▍ | 84/100 [05:21<00:35,  2.25s/it]
+ 질문 What weekly newsmagazine is published in the capital and largest city of Peru? 
+ 정답 Lima 
+ 답변 Caretas 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 The Youth in Music championship is held in the stadium that was built on the site of what former stadium? 
+ 정답 Hubert H. Humphrey Metrodome 
+ 답변 Metropolitan Stadium 
+ 판정 INCORRECT
+
+ 질문 The Youth in Music championship is held in the stadium that was built on the site of what former stadium? 
+ 정답 Hubert H. Humphrey Metrodome 
+ 답변 Metropolitan Stadium 
+ 판정 INCORRECT
+ 85%|████████▌ | 85/100 [05:23<00:32,  2.19s/it]
+ 질문 The Youth in Music championship is held in the stadium that was built on the site of what former stadium? 
+ 정답 Hubert H. Humphrey Metrodome 
+ 답변 Metropolitan Stadium 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which singer is South Korean, Mike Muir or Leo? 
+ 정답 Leo 
+ 답변 Leo. 
+ 판정 CORRECT
+
+ 질문 Which singer is South Korean, Mike Muir or Leo? 
+ 정답 Leo 
+ 답변 Leo. 
+ 판정 CORRECT
+ 86%|████████▌ | 86/100 [05:25<00:30,  2.15s/it]
+ 질문 Which singer is South Korean, Mike Muir or Leo? 
+ 정답 Leo 
+ 답변 Leo. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which case Illinois v. Gates or Shelley v. Kraemer took place first ? 
+ 정답 Shelley v. Kraemer, 
+ 답변 Shelley v. Kraemer. 
+ 판정 CORRECT
+
+ 질문 Which case Illinois v. Gates or Shelley v. Kraemer took place first ? 
+ 정답 Shelley v. Kraemer, 
+ 답변 Shelley v. Kraemer. 
+ 판정 CORRECT
+ 87%|████████▋ | 87/100 [05:27<00:28,  2.17s/it]
+ 질문 Which case Illinois v. Gates or Shelley v. Kraemer took place first ? 
+ 정답 Shelley v. Kraemer, 
+ 답변 Shelley v. Kraemer. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which Bengali film stars Koyel Mullick and a former Rajya Sabha Member of Parliament? 
+ 정답 Minister Fatakeshto 
+ 답변 "Chore Chore Mastuto Bhai" 
+ 판정 INCORRECT
+
+ 질문 Which Bengali film stars Koyel Mullick and a former Rajya Sabha Member of Parliament? 
+ 정답 Minister Fatakeshto 
+ 답변 "Chore Chore Mastuto Bhai" 
+ 판정 INCORRECT
+ 88%|████████▊ | 88/100 [05:30<00:25,  2.13s/it]
+ 질문 Which Bengali film stars Koyel Mullick and a former Rajya Sabha Member of Parliament? 
+ 정답 Minister Fatakeshto 
+ 답변 "Chore Chore Mastuto Bhai" 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What member of the Big 12 Conference and competes in NCAA Division I, fielding 16 varsity teams, had an American college wrestling icon considered one of the best American amateur wrestlers in recent history? 
+ 정답 Iowa State Cyclones 
+ 답변 Oklahoma State University. 
+ 판정 INCORRECT
+
+ 질문 What member of the Big 12 Conference and competes in NCAA Division I, fielding 16 varsity teams, had an American college wrestling icon considered one of the best American amateur wrestlers in recent history? 
+ 정답 Iowa State Cyclones 
+ 답변 Oklahoma State University. 
+ 판정 INCORRECT
+ 89%|████████▉ | 89/100 [05:32<00:24,  2.22s/it]
+ 질문 What member of the Big 12 Conference and competes in NCAA Division I, fielding 16 varsity teams, had an American college wrestling icon considered one of the best American amateur wrestlers in recent history? 
+ 정답 Iowa State Cyclones 
+ 답변 Oklahoma State University. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Between the tennis players, Carly Gullickson, and Pierre Barthès, which is of French nationality? 
+ 정답 Pierre Barthès 
+ 답변 Pierre Barthès. 
+ 판정 CORRECT
+
+ 질문 Between the tennis players, Carly Gullickson, and Pierre Barthès, which is of French nationality? 
+ 정답 Pierre Barthès 
+ 답변 Pierre Barthès. 
+ 판정 CORRECT
+ 90%|█████████ | 90/100 [05:34<00:21,  2.11s/it]
+ 질문 Between the tennis players, Carly Gullickson, and Pierre Barthès, which is of French nationality? 
+ 정답 Pierre Barthès 
+ 답변 Pierre Barthès. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Bruno Bianchi, former racing driver, worked as an engineer at a multinational aerospace and transportation company based where? 
+ 정답 Montreal, Quebec, Canada 
+ 답변 Montreal, Canada. 
+ 판정 CORRECT
+
+ 질문 Bruno Bianchi, former racing driver, worked as an engineer at a multinational aerospace and transportation company based where? 
+ 정답 Montreal, Quebec, Canada 
+ 답변 Montreal, Canada. 
+ 판정 CORRECT
+ 91%|█████████ | 91/100 [05:36<00:18,  2.02s/it]
+ 질문 Bruno Bianchi, former racing driver, worked as an engineer at a multinational aerospace and transportation company based where? 
+ 정답 Montreal, Quebec, Canada 
+ 답변 Montreal, Canada. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What was the name of the 1985 formed band, Fu Manchu's debut album? 
+ 정답 No One Rides for Free 
+ 답변 "No One Rides for Free" 
+ 판정 CORRECT
+
+ 질문 What was the name of the 1985 formed band, Fu Manchu's debut album? 
+ 정답 No One Rides for Free 
+ 답변 "No One Rides for Free" 
+ 판정 CORRECT
+ 92%|█████████▏| 92/100 [05:38<00:15,  1.97s/it]
+ 질문 What was the name of the 1985 formed band, Fu Manchu's debut album? 
+ 정답 No One Rides for Free 
+ 답변 "No One Rides for Free" 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Are Patrinia and the Musa acuminata varieties of Banana both plants noted for their long-lasting flowers? 
+ 정답 no 
+ 답변 No. Only Patrinia is noted for its long-lasting flowers. 
+ 판정 CORRECT
+
+ 질문 Are Patrinia and the Musa acuminata varieties of Banana both plants noted for their long-lasting flowers? 
+ 정답 no 
+ 답변 No. Only Patrinia is noted for its long-lasting flowers. 
+ 판정 CORRECT
+ 93%|█████████▎| 93/100 [05:39<00:13,  1.95s/it]
+ 질문 Are Patrinia and the Musa acuminata varieties of Banana both plants noted for their long-lasting flowers? 
+ 정답 no 
+ 답변 No. Only Patrinia is noted for its long-lasting flowers. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Avon Saxon created the role of Friar Tuck in the opera by which English composer? 
+ 정답 Sir Arthur Seymour Sullivan MVO 
+ 답변 Frederick Delius. 
+ 판정 INCORRECT
+
+ 질문 Avon Saxon created the role of Friar Tuck in the opera by which English composer? 
+ 정답 Sir Arthur Seymour Sullivan MVO 
+ 답변 Frederick Delius. 
+ 판정 INCORRECT
+ 94%|█████████▍| 94/100 [05:42<00:12,  2.06s/it]
+ 질문 Avon Saxon created the role of Friar Tuck in the opera by which English composer? 
+ 정답 Sir Arthur Seymour Sullivan MVO 
+ 답변 Frederick Delius. 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Which was released first, Brave or Sky High? 
+ 정답 Sky High 
+ 답변 Sky High. 
+ 판정 CORRECT
+
+ 질문 Which was released first, Brave or Sky High? 
+ 정답 Sky High 
+ 답변 Sky High. 
+ 판정 CORRECT
+ 95%|█████████▌| 95/100 [05:44<00:10,  2.06s/it]
+ 질문 Which was released first, Brave or Sky High? 
+ 정답 Sky High 
+ 답변 Sky High. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Sharon Kay Penman and Zora Neale Hurston, have which shared nationality? 
+ 정답 American 
+ 답변 American. 
+ 판정 CORRECT
+
+ 질문 Sharon Kay Penman and Zora Neale Hurston, have which shared nationality? 
+ 정답 American 
+ 답변 American. 
+ 판정 CORRECT
+ 96%|█████████▌| 96/100 [05:46<00:08,  2.10s/it]
+ 질문 Sharon Kay Penman and Zora Neale Hurston, have which shared nationality? 
+ 정답 American 
+ 답변 American. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Who was born later, Frank Lucas or Ike Atkinson? 
+ 정답 Frank Lucas 
+ 답변 Frank Lucas. 
+ 판정 CORRECT
+
+ 질문 Who was born later, Frank Lucas or Ike Atkinson? 
+ 정답 Frank Lucas 
+ 답변 Frank Lucas. 
+ 판정 CORRECT
+ 97%|█████████▋| 97/100 [05:48<00:05,  1.99s/it]
+ 질문 Who was born later, Frank Lucas or Ike Atkinson? 
+ 정답 Frank Lucas 
+ 답변 Frank Lucas. 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 What was the population according to the 2010 census of the census-designated place where Max Loughan created a crystal radio? 
+ 정답 8,777 
+ 답변 1,094 
+ 판정 INCORRECT
+
+ 질문 What was the population according to the 2010 census of the census-designated place where Max Loughan created a crystal radio? 
+ 정답 8,777 
+ 답변 1,094 
+ 판정 INCORRECT
+ 98%|█████████▊| 98/100 [05:50<00:03,  1.95s/it]
+ 질문 What was the population according to the 2010 census of the census-designated place where Max Loughan created a crystal radio? 
+ 정답 8,777 
+ 답변 1,094 
+ 판정 INCORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 St Walburga's Convent stands to the north of Balmoral Road, Lancaster, in Lancashire, the building is connected to the convent chapel of Lancaster Cathedral, also known as The Cathedral Church of St Peter, is in St Peter's Road, Lancaster, Lancashire, in which country? 
+ 정답 England 
+ 답변 England 
+ 판정 CORRECT
+
+ 질문 St Walburga's Convent stands to the north of Balmoral Road, Lancaster, in Lancashire, the building is connected to the convent chapel of Lancaster Cathedral, also known as The Cathedral Church of St Peter, is in St Peter's Road, Lancaster, Lancashire, in which country? 
+ 정답 England 
+ 답변 England 
+ 판정 CORRECT
+ 99%|█████████▉| 99/100 [05:51<00:01,  1.92s/it]
+ 질문 St Walburga's Convent stands to the north of Balmoral Road, Lancaster, in Lancashire, the building is connected to the convent chapel of Lancaster Cathedral, also known as The Cathedral Church of St Peter, is in St Peter's Road, Lancaster, Lancashire, in which country? 
+ 정답 England 
+ 답변 England 
+ 판정 CORRECT
+사용모델 :  gpt-4o 
+
+
+ 질문 Minneapolis hosts Super Bowl LII, but which year did the city first host the event, at the Hubert H. Humphrey Metrodome downtown? 
+ 정답 1992 
+ 답변 1992 
+ 판정 CORRECT
+
+ 질문 Minneapolis hosts Super Bowl LII, but which year did the city first host the event, at the Hubert H. Humphrey Metrodome downtown? 
+ 정답 1992 
+ 답변 1992 
+ 판정 CORRECT
+100%|██████████| 100/100 [05:53<00:00,  3.54s/it]
+ 질문 Minneapolis hosts Super Bowl LII, but which year did the city first host the event, at the Hubert H. Humphrey Metrodome downtown? 
+ 정답 1992 
+ 답변 1992 
+ 판정 CORRECT
+{'avg_em': 0.49, 'avg_f1': 0.5978823953823954, 'avg_acc': 0.72, 'avg_wall_time': 1.2399051523208617, 'avg_total_tokens': 44.99, 'avg_total_cost': 0.00022495000000000002, 'avg_steps': 1.0, 'avg_token_cost': 0.00022495000000000002, 'avg_tool_cost': 0.0}
